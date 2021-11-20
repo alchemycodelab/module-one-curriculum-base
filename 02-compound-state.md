@@ -51,13 +51,70 @@ div.textContent = 'This is my new, dynamically generated div!'
 ```js
 const container = document.querySelector('#container');
 
-// it's usually worth clearing out your container element before appending a list to it.
-container.textContent = ''
-
 for (let fruit of fruits) {
     container.append(fruit);
 }
 ```
+
+In situations where you expect to _add items to your list of things_, the easiest solution is to clear out the DOM every time you want to add a new item to the list. If you don't it's easy to accidentally duplicate the whole list. It might be a good idea to put all this work into a function.
+
+```js
+function refreshList() {
+    const container = document.querySelector('#container');
+
+    // it's usually worth clearing out your container element before appending a list to it.
+    container.textContent = ''
+
+    for (let fruit of fruits) {
+        container.append(fruit);
+    }
+}
+```
+
+We could also refactor this work into two functions:
+
+```js
+function refreshList() {
+    const container = document.querySelector('#container');
+
+    container.textContent = '';
+
+    const listEl = renderList();
+
+    container.append(listEl)
+}
+
+function renderList() {
+    const newListEl = document.querySelector('#container');
+
+    for (let fruit of fruits) {
+        newListEl.append(fruit);
+    }
+
+    return newListEl;
+}
+```
+
+One of these functions is pure and the other is impure. Which is which?
+
+## Where should functions live?
+
+Impure functions that manipulate existing DOM elements _must_ live in the main .js file. Otherwise, you will cause problems in your test suite down the road.
+
+Pure functions that _create and return new DOM elements_ should probably live in a separate file and imported in.
+
+```js
+import { add } from './utils.js'
+
+add(4, 2)
+```
+
+```js
+export function add(num1, num1) {
+    return num1 + num2
+}
+```
+
 # Deliverable - Dropdown Character Maker
 
 | User should be able to . . .                                                         |             |
