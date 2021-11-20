@@ -100,6 +100,35 @@ button.addEventListener('click', () => {
 })
 ```
 
+## Making a plan
+
+If you haven't gotten yourself into a mess yet, you won't believe me, but: planning is more important than coding.
+
+Without a plan, it is all to easy to "try to do everything at once", or try to "make a sloppy copy" or "rough draft". 
+
+The Golden Rule:  🦸 🦸‍♂️ `Stop starting and start finishing.` 🏁
+
+If you work on more than one feature at a time, you are guaranteed to multiply your bugs and your anxiety.
+
+When you've made a big enough mess, don't be surprised if me or a TA advises you to trash the repo and start over. 
+    - We're not trying to be mean: we've all thrown out dozens of apps we've sunk hours into! 
+    - It's sometimes just literally easier to start a project over than miserably debug a project where 'nothing works'.
+
+So here's how to work toward avoiding that situation:
+
+1) Make a drawing of your app. Simple "wireframes"
+1) Once you have a drawing, name the HTML elements you'll need to realize your vision
+1) For each HTML element ask: Why do I need this? 
+1) Once we know _why_ we need each element, think about how to implement the "Why" as a "How"
+    - for example, if we know we need to inject words into a div, note `div.textContent = 'my new words'`
+1) Find all the 'events' (user clicks, form submit, on load etc) in your app. Ask one by one, "What happens when" for each of these events. 
+    - Does any state change? 
+    - Does any DOM change? (if state changes, the answer is yes 🙂)
+1) Think about how to validate each of your features according to a Definition of Done
+    - 90% of the time, it's just "`console.log` something" to make sure it's right.
+1) Consider what features _depend_ on what other features. Use this dependency logic to figure out what order to complete tasks.
+
+
 # Deliverable - Hide and Seek
 
 | User should be able to . . .                                                         |             |
