@@ -1,10 +1,11 @@
-Database Notes
+Supabase Notes
 
-Use supplied DBs for all "batteries-included" assignments
+Cohort will Use supplied DBs for all "batteries-included" assignments
+
 IMPORTANT: always supply a user_id when fetching and creating items.
 Otherwise, uh, this kind of doesn't work since you need to only be able to fetch the items your user created.
 
-Make own supabase DB for "from scratch" assignments
+For 'from scratch' deliverables, students will create their own supabase instances.
 
 ## Beanie babies List/Detail
 
