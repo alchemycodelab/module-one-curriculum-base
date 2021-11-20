@@ -115,7 +115,7 @@ button.addEventListener('click', () => {
 
 ## Making a plan
 
-- f you haven't gotten yourself into a mess yet, you won't believe me, but: planning is more important than coding.
+- If you haven't gotten yourself into a mess yet, you won't believe me, but: planning is more important than coding.
 
 - Without a plan, it is all too easy to "try to do everything at once"
     - Unlike writing in human languages, in coding language, it's always a bad idea to "make a sloppy copy" or "rough draft".
@@ -130,7 +130,7 @@ button.addEventListener('click', () => {
 
 ---
 
-- Here's a follow-the-steps process for how to avoid big messes:
+### Here's a follow-the-steps process for how to avoid big messes:
 
 1) Make a drawing of your app. Simple "wireframes"
 1) Once you have a drawing, name the HTML elements you'll need to realize your vision
