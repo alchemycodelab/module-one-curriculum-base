@@ -4,7 +4,11 @@
     - IMPORTANT: always supply a user_id when fetching and creating items.
     - Otherwise, uh, this kind of doesn't work since you need to only be able to fetch the items your users created, and not items that _all the other students in the cohort_ created.
 
-- For 'from scratch' deliverables, students will create their own supabase instances.
+---
+
+## 'From scratch' data models
+
+For 'from scratch' deliverables, students will create their own supabase instances.
 
 ## Beanie babies List/Detail
 
