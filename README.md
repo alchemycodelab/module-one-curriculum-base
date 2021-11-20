@@ -1,11 +1,10 @@
 # Supabase Notes
 
-Cohort will use Alchemy-supplied supabase keys and URLs for all "batteries-included" assignments
+- Cohort will use Alchemy-supplied supabase keys and URLs for all "batteries-included" assignments
+    - IMPORTANT: always supply a user_id when fetching and creating items.
+    - Otherwise, uh, this kind of doesn't work since you need to only be able to fetch the items your users created, and not items that _all the other students in the cohort_ created.
 
-IMPORTANT: always supply a user_id when fetching and creating items.
-Otherwise, uh, this kind of doesn't work since you need to only be able to fetch the items your user created.
-
-For 'from scratch' deliverables, students will create their own supabase instances.
+- For 'from scratch' deliverables, students will create their own supabase instances.
 
 ## Beanie babies List/Detail
 
