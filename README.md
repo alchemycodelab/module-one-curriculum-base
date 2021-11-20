@@ -94,7 +94,7 @@
 ## Movie Review App
 
 ### Movie
-```
+```js
     id: 1,
     name: '',
     poster_url: '',
@@ -103,7 +103,7 @@
 ```
 
 ### Review
-```
+```js
     id: 1,
     author: '',
     rating: 2,
