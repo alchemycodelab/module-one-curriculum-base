@@ -6,11 +6,11 @@
 
 ---
 
-# 🍳 Sameple data models for 'from scratch' deliverable
-
 - For 'from scratch' deliverables, students will create their own supabase instances. 
 
 - Tables will look something like the below examples.
+
+# 🍳 Sample data models for 'from scratch' deliverables:
 
 ## Beanie babies List/Detail
 
