@@ -6,7 +6,7 @@
 
 ---
 
-## 'From scratch' data models
+# 🍳 Sameple data models for 'from scratch' deliverable
 
 - For 'from scratch' deliverables, students will create their own supabase instances. 
 
@@ -95,6 +95,7 @@
 
 ### Movie
 ```
+    id: 1,
     name: '',
     poster_url: '',
     year: 1999,
@@ -103,8 +104,14 @@
 
 ### Review
 ```
+    id: 1,
     author: '',
     rating: 2,
     thumbs: 'up', // or 'down' if the rating is negative
     review: '',
+    // this is a one-to-many foreign_key and must be created using the "chain link" feature in the supabase dashboard
+    // one review will always belong to a single movie, but one movie may have multiple reviews
+    movie_id: 2,
+    user_id: '',
+
 ```
