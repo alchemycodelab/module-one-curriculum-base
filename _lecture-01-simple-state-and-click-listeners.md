@@ -1,4 +1,4 @@
-# Module 3 - Simple State and Event Listeners
+# Lecture 3 - Simple State and Event Listeners
 
 ## 'Grabbing' elements with document.querySelector() 
 

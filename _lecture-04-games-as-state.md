@@ -1,8 +1,8 @@
 
 
-# Module 4 - Games as State
+# Lecture 4 - Games as State
 
-This is kind of a 'put it all together' module. You don't have much new to learn. However, the assignment itself is complex, because you have a lot of state you need to manage.
+This is kind of a 'put it all together' Lecture. You don't have much new to learn. However, the assignment itself is complex, because you have a lot of state you need to manage.
 
 Some advice for complex assignments:
 1) Remember to make a plan. You might have squeaked by with no plan so far, but it's more likely to catch up with you here if you try to 'just figure it out at you go'.

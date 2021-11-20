@@ -1,4 +1,4 @@
-# Module 2 - Compound State
+# Lecture 2 - Compound State
 
 
 ## Dropdowns

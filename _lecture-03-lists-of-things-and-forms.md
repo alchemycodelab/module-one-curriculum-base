@@ -1,5 +1,5 @@
 
-# Module 3 - Lists of Things and Forms
+# Lecture 3 - Lists of Things and Forms
 
 ## Pure Functions that return DOM elements
 
