@@ -8,23 +8,6 @@ const myDiv = document.getElementById('my-div');
 const myDiv = document.querySelectors('#my-div');
 ```
 
-## Click handlers
-
-```js
-const button = document.querySelector('#my-button');
-
-button.addEventListener('click', () => {
-    // 😎 Cool Zone 😎
-    // when you click the #my-button button, whatever code you write in the cool zone will execute 
-
-    // (the cool zone is actually called an 'anonymous callback' or maybe a 'click handler')
-
-    // usually, we do 3 things here:
-        // 1) get some information
-        // 2) use that information to update state
-        // 3) update the DOM to reflect these state changes
-})
-```
 
 ## Random numbers
 
@@ -80,6 +63,43 @@ function getRandomNumberBetween0And10(/*💥 impure function alert 💥 no argum
 ```
 
 Question: What do you think is easier to test: pure or impure functions? Why?
+
+
+## State and View
+
+State is the whole point of apps.
+
+State is anything that changes over time.
+
+Every time state changes, update the DOM to show the user what the new state is.
+
+In plain JS, state is usually stored in `let` variables. 
+
+Why do you think that is?
+
+```js
+let counter = 0;
+
+counter++
+```
+
+## Click handlers
+
+```js
+const button = document.querySelector('#my-button');
+
+button.addEventListener('click', () => {
+    // 😎 Cool Zone 😎
+    // when you click the #my-button button, whatever code you write in the cool zone will execute 
+
+    // (the cool zone is actually called an 'anonymous callback' or maybe a 'click handler')
+
+    // usually, we do 3 things here:
+        // 1) get some information
+        // 2) use that information to update state
+        // 3) update the DOM to reflect these state changes
+})
+```
 
 # Deliverable - Hide and Seek
 
