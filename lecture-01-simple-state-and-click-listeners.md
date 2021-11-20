@@ -130,6 +130,8 @@ button.addEventListener('click', () => {
 
 - So here's how to work toward avoiding that situation:
 
+---
+
 1) Make a drawing of your app. Simple "wireframes"
 1) Once you have a drawing, name the HTML elements you'll need to realize your vision
 1) For each HTML element ask: Why do I need this? 
