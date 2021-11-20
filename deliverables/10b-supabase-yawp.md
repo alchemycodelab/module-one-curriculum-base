@@ -1,7 +1,7 @@
 
 # Deliverable 10 - Supabase Yelp-alike
 
-### Live Example
+### Live Example:
 https://upgraded-winner-147551f5.pages.github.io/ 
 
 | User should be able to . . .                                                         |             |

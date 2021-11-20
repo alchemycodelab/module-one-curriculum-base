@@ -1,6 +1,6 @@
 # Deliverable 03 - Soccer Scorekeeper
 
-### Live Example
+### Live Example:
 https://dpcairns.github.io/soccer-scorekeeper/
 
 | User should be able to . . .                                                         |             |

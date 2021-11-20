@@ -1,6 +1,6 @@
 # Deliverable 08 - Supabase Todo App
 
-### Live Example
+### Live Example:
 https://dpcairns.github.io/todo-supabase/
 
 | User should be able to . . .                                                         |             |

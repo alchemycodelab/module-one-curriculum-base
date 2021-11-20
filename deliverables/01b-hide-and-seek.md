@@ -2,7 +2,7 @@
 
 # Deliverable 01 - Hide and Seek
 
-### Live Example
+### Live Example:
 https://dpcairns.github.io/hide-and-seek/
 
 | User should be able to . . .                                                         |             |

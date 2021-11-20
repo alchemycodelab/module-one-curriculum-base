@@ -1,7 +1,7 @@
 
 # Deliverable 02 - Dropdown Character Maker
 
-### Live Example
+### Live Example:
 https://dpcairns.github.io/character-designer/
 
 | User should be able to . . .                                                         |             |

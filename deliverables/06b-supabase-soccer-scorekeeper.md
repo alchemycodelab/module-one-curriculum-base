@@ -1,7 +1,7 @@
 
 # Deliverable 06 - Supabase Soccer Scorekeeper
 
-### Live Example
+### Live Example:
 https://dpcairns.github.io/soccer-scorekeeper/
 
 | User should be able to . . .                                                         |             |

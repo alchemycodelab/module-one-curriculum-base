@@ -1,6 +1,6 @@
 # Deliverable 09 - Supabase Fuzzy Bunny Organizer
 
-### Live Example
+### Live Example:
 https://dpcairns.github.io/fuzzy-bunny-organizer/
 
 | User should be able to . . .                                                         |             |

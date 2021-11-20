@@ -1,6 +1,6 @@
 # Deliverable 04 - Mushroom Festival
 
-### Live Example
+### Live Example:
 https://dpcairns.github.io/mushroom-festival/
 
 # Mushroom Festival

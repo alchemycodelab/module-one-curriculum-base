@@ -1,6 +1,6 @@
 # Deliverable 05 - Supabase Dog Adoption App
 
-### Live Example
+### Live Example:
 https://dpcairns.github.io/adopt-a-dog/
 
 
