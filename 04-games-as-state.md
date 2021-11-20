@@ -1,6 +1,6 @@
 
 
-# Module 5 - Games as State
+# Module 4 - Games as State
 
 This is kind of a 'put it all together' module. You don't have much new to learn. However, the assignment itself is complex, because you have a lot of state you need to manage.
 
