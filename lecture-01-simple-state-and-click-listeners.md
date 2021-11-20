@@ -128,9 +128,9 @@ button.addEventListener('click', () => {
     - We're not trying to be mean: we've all thrown out dozens of apps we've sunk hours into! 
     - It's sometimes just literally easier to start a project over than miserably debug a project where 'nothing works'.
 
-- So here's how to work toward avoiding that situation:
-
 ---
+
+- Here's a follow-the-steps process for how to avoid big messes:
 
 1) Make a drawing of your app. Simple "wireframes"
 1) Once you have a drawing, name the HTML elements you'll need to realize your vision
