@@ -8,7 +8,9 @@ const myDiv = document.getElementById('my-div');
 const myDiv = document.querySelectors('#my-div');
 ```
 
-`document.querySelector()` can eat anything that css can eat. If you want to grab an item by class, use `.my-class`, for example. But be careful: if you have more than one element with the class `.dog-box`, it will only return the first match it finds. It's usually good to stick with ids for this kind of thing until you feel very comfortable with DOM manipulation.
+`document.querySelector()` can eat anything that css can eat.
+- If you want to grab an item by class, use `.my-class`, for example. 
+- But be careful: if you have more than one element with the class `.dog-box`, it will only return the first match it finds. - It's usually good to stick with ids for this kind of thing until you feel very comfortable with DOM manipulation.
 
 ## Functions for Reused Code
 

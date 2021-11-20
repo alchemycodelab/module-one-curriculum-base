@@ -68,7 +68,9 @@ In situations where you expect to _add items to your list of things_, the easies
 
 If you don't clear out the old DOM, it's easy to accidentally duplicate the whole list.
 
-Because there's suddenly a lot going on (some of it pure, some of it impure), it might be a good idea to put all this work into a function. This function can be called whenever we want to refresh our list with the newest state.
+There's suddenly a lot going on! 
+- So it might be a good idea to put all this work into a function. 
+- This function can be called whenever we want to refresh our list with the newest state.
 
 ```js
 // notice that this array is state. It is in 'global' scope.

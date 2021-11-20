@@ -72,9 +72,12 @@ container.append(dogEl);
 
 ## Forms
 
-Sometimes we want more than just one `input` worth of information at a time. That's when an HTML form is useful. It also gives us that snappy 'hit enter to submit' behavior. The downside is that forms require us to remember 2 things:
-1) `e.preventDefault()`
-1) `const formData = new FormData(form);`
+Sometimes we want more than just one `input` worth of information at a time. 
+- That's when an HTML form is useful. 
+- It also gives us that snappy 'hit enter to submit' behavior.
+- The downside is that forms require us to remember 2 things:
+    1) `e.preventDefault()`
+    1) `const formData = new FormData(form);`
 
 ```html
 <form id="dog-form">
