@@ -36,14 +36,22 @@ myButton.addEventListener('click', () => {
 ```
 
 
-## creating DOM elements
+## Creating DOM elements
+
+Obviously, it would be impossible for all website HTML to be hard coded.
+
+Here is how you can create new HTML elements (and add them to the DOM) on the fly.
 
 ```js
+// go grab a hard-coded div from the website
 const container = document.querySelector('#container');
 
-const div = document.createElement('div')
+// make and mutate a new div
+const div = document.createElement('div');
+div.textContent = 'This is my new, dynamically generated div!';
 
-div.textContent = 'This is my new, dynamically generated div!'
+// append the div to the container in order to get it to show up in the website
+container.append(div);
 ```
 
 ## Rendering lists of things
@@ -56,46 +64,30 @@ for (let fruit of fruits) {
 }
 ```
 
-In situations where you expect to _add items to your list of things_, the easiest solution is to clear out the DOM every time you want to add a new item to the list. If you don't it's easy to accidentally duplicate the whole list. It might be a good idea to put all this work into a function.
+In situations where you expect to _add items to your list of things_, the easiest solution is to clear out the DOM every time you want to add a new item to the list. 
+
+If you don't clear out the old DOM, it's easy to accidentally duplicate the whole list.
+
+Because there's suddenly a lot going on (some of it pure, some of it impure), it might be a good idea to put all this work into a function. This function can be called whenever we want to refresh our list with the newest state.
 
 ```js
+// notice that this array is state. It is in 'global' scope.
+let fruits = [];
+
 function refreshList() {
     const container = document.querySelector('#container');
 
-    // it's usually worth clearing out your container element before appending a list to it.
+    // clear out the old DOM to make room for the new
     container.textContent = ''
 
     for (let fruit of fruits) {
+        // the function has access to global state, even if we don't pass it as an argument
         container.append(fruit);
     }
 }
 ```
 
-We could also refactor this work into two functions:
-
-```js
-function refreshList() {
-    const container = document.querySelector('#container');
-
-    container.textContent = '';
-
-    const listEl = renderList();
-
-    container.append(listEl)
-}
-
-function renderList() {
-    const newListEl = document.querySelector('#container');
-
-    for (let fruit of fruits) {
-        newListEl.append(fruit);
-    }
-
-    return newListEl;
-}
-```
-
-One of these functions is pure and the other is impure. Which is which?
+One of these functions is pure and the other is impure. Which is which? What's the difference?
 
 ## Where should functions live?
 

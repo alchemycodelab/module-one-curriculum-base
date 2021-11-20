@@ -8,17 +8,6 @@ const myDiv = document.getElementById('my-div');
 const myDiv = document.querySelectors('#my-div');
 ```
 
-
-## Random numbers
-
-```js
-// get a random number between 1 and 10
-const randomNumber = Math.floor(Math.random() * 10);
-
-// you could use this random number as an array index. Why would we want to do that?
-myArray[randomNumber] 
-```
-
 ## Functions for Reused Code
 
 There are two kinds of functions:
@@ -63,6 +52,16 @@ function getRandomNumberBetween0And10(/*💥 impure function alert 💥 no argum
 ```
 
 Question: What do you think is easier to test: pure or impure functions? Why?
+
+## Random numbers
+
+```js
+// get a random number between 1 and 10
+const randomNumber = Math.floor(Math.random() * 10);
+
+// you could use this random number as an array index. Why would we want to do that?
+myArray[randomNumber] 
+```
 
 
 ## State and View
