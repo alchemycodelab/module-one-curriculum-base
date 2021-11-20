@@ -79,7 +79,7 @@
 }
 ```
 
-## Participant 
+### Participant 
 ```js
 {
     id: 1,
