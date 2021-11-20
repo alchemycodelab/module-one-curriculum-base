@@ -140,6 +140,6 @@ button.addEventListener('click', () => {
 1) Find all the 'events' (user clicks, form submit, on load etc) in your app. Ask one by one, "What happens when" for each of these events. 
     - Does any state change? 
     - Does any DOM change? (if state changes, the answer is yes 🙂)
-1) Think about how to validate each of your features according to a Definition of Done
+1) Think about how to validate each of your steps according to a Definition of Done
     - 90% of the time, it's just "`console.log` something" to make sure it's right.
 1) Consider what features _depend_ on what other features. Use this dependency logic to figure out what order to complete tasks.
