@@ -51,7 +51,7 @@
     left: '',
     right: '',
     middle: '',
-    slogan: [''],
+    slogans: [''],
     user_id: '',
 }
 ```
