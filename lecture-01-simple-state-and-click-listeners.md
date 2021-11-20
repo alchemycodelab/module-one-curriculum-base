@@ -102,9 +102,11 @@ button.addEventListener('click', () => {
 
         // 1) get some information, somehow :)
         const value = someInput.value;
+
         // then
         // 2) use that information to update state
         greetingState = `Hello ${value}!`;
+        
         // then
         // 3) update the DOM to reflect these state changes
         greetingEl.textContent = greetingState;
