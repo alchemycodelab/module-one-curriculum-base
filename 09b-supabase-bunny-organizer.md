@@ -1,4 +1,4 @@
-# Deliverable - Supabase Fuzzy Bunny Organizer
+# Deliverable 09 - Supabase Fuzzy Bunny Organizer
 
 | User should be able to . . .                                                         |             |
 | :----------------------------------------------------------------------------------- | ----------: |

@@ -1,5 +1,5 @@
 
-# Deliverable - Supabase Soccer Scorekeeper
+# Deliverable 06 - Supabase Soccer Scorekeeper
 
 | User should be able to . . .                                                         |             |
 | :----------------------------------------------------------------------------------- | ----------: |

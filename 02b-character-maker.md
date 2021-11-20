@@ -1,5 +1,5 @@
 
-# Deliverable - Dropdown Character Maker
+# Deliverable 02 - Dropdown Character Maker
 
 | User should be able to . . .                                                         |             |
 | :----------------------------------------------------------------------------------| ----------: |

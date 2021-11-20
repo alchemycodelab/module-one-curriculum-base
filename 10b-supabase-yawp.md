@@ -1,5 +1,5 @@
 
-# Deliverable - Supabase Yelp-alike
+# Deliverable 10 - Supabase Yelp-alike
 
 | User should be able to . . .                                                         |             |
 | :----------------------------------------------------------------------------------- | ----------: |

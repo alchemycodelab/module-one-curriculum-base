@@ -1,4 +1,4 @@
-# Deliverable - Supabase Todo App
+# Deliverable 08 - Supabase Todo App
 
 | User should be able to . . .                                                         |             |
 | :----------------------------------------------------------------------------------- | ----------: |

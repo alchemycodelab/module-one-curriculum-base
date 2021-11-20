@@ -1,5 +1,5 @@
 
-# Deliverable - Supabase Dropdown Character Maker
+# Deliverable 07 - Supabase Dropdown Character Maker
 
 | User should be able to . . .                                                         |             |
 | :----------------------------------------------------------------------------------- | ----------: |

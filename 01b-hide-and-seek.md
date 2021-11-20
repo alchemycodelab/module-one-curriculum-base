@@ -1,6 +1,6 @@
 
 
-# Deliverable - Hide and Seek
+# Deliverable 01 - Hide and Seek
 
 | User should be able to . . .                                                         |             |
 | :----------------------------------------------------------------------------------- | ----------: |

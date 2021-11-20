@@ -1,4 +1,4 @@
-# Deliverable - Soccer Scorekeeper
+# Deliverable 03 - Soccer Scorekeeper
 
 | User should be able to . . .                                                         |             |
 | :----------------------------------------------------------------------------------- | ----------: |
