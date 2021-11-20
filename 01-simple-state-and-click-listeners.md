@@ -110,7 +110,7 @@ button.addEventListener('click', () => {
 
 If you haven't gotten yourself into a mess yet, you won't believe me, but: planning is more important than coding.
 
-Without a plan, it is all to easy to "try to do everything at once", or try to "make a sloppy copy" or "rough draft". 
+Without a plan, it is all too easy to "try to do everything at once", or try to "make a sloppy copy" or "rough draft". 
 
 The Golden Rule:  🦸 🦸‍♂️ `Stop starting and start finishing.` 🏁
 
