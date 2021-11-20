@@ -1,12 +1,14 @@
 # Module 3 - Simple State and Event Listeners
 
-## Query Selector 
+## 'Grabbing' elements with document.querySelector() 
 
 ```js
 // these two statements are exactly the same
 const myDiv = document.getElementById('my-div');
 const myDiv = document.querySelectors('#my-div');
 ```
+
+`document.querySelector()` can eat anything that css can eat. If you want to grab an item by class, use `.my-class`, for example. But be careful: if you have more than one element with the class `.dog-box`, it will only return the first match it finds. It's usually good to stick with ids for this kind of thing until you feel very comfortable with DOM manipulation.
 
 ## Functions for Reused Code
 
@@ -93,9 +95,13 @@ button.addEventListener('click', () => {
 
     // (the cool zone is actually called an 'anonymous callback' or maybe a 'click handler')
 
-    // usually, we do 3 things here:
-        // 1) get some information
+    // don't worry--it's not a free for all!
+    // usually, we do exactly 3 things here:
+
+        // 1) get some information, somehow :)
+        // then
         // 2) use that information to update state
+        // then
         // 3) update the DOM to reflect these state changes
 })
 ```
