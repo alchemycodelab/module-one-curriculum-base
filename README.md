@@ -12,7 +12,7 @@
 
 # 🍳 Sample data models for 'from scratch' deliverables:
 
-## Beanie babies List/Detail
+## Beanie babies List/Detail App
 
 ### Beanie Baby 
 - because this deliverable has no way to create a beanie baby, you will manually enter these in the supabase dashboard
@@ -26,7 +26,7 @@
 }
 ```
 
-## Poll Maker 
+## Poll Maker App
 
 ### Poll
 ```js
@@ -41,7 +41,7 @@
 }
 ```
 
-## Building Designer
+## Building Designer App
 
 ### Building
 - note: one building is only ever created for a given user, to be updated by that user later.
@@ -56,7 +56,7 @@
 }
 ```
 
-## Shopping Checklist
+## Shopping Checklist App
 
 ### Shopping Item
 ```js
@@ -68,7 +68,7 @@
 }
 ```
 
-## Workshop Planner
+## Workshop Planner App
 
 ### Workshops
 - because this deliverable has no way to create a workshop, you will manually enter these in the supabase dashboard
@@ -91,7 +91,7 @@
 }
 ```
 
-## Movie Review Site
+## Movie Review App
 
 ### Movie
 ```
