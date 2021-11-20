@@ -8,7 +8,9 @@
 
 ## 'From scratch' data models
 
-For 'from scratch' deliverables, students will create their own supabase instances.
+- For 'from scratch' deliverables, students will create their own supabase instances. 
+
+- Tables will look something like the below examples.
 
 ## Beanie babies List/Detail
 
