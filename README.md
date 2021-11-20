@@ -95,15 +95,18 @@
 
 ### Movie
 ```js
+{
     id: 1,
     name: '',
     poster_url: '',
     year: 1999,
     genre: ''
+}
 ```
 
 ### Review
 ```js
+{
     id: 1,
     author: '',
     rating: 2,
@@ -113,5 +116,6 @@
     // one review will always belong to a single movie, but one movie may have multiple reviews
     movie_id: 2,
     user_id: '',
+}
 
 ```
