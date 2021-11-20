@@ -38,9 +38,9 @@ myButton.addEventListener('click', () => {
 
 ## Creating DOM elements
 
-Obviously, it would be impossible for all website HTML to be hard coded.
+- Obviously, it would be impossible for all website HTML to be hard coded.
 
-Here is how you can create new HTML elements (and add them to the DOM) on the fly.
+- Here is how you can create new HTML elements (and add them to the DOM) on the fly.
 
 ```js
 // go grab a hard-coded div from the website
@@ -64,13 +64,13 @@ for (let fruit of fruits) {
 }
 ```
 
-In situations where you expect to _add items to your list of things_, the easiest solution is to clear out the DOM every time you want to add a new item to the list. 
+- In situations where you expect to _add items to your list of things_, the easiest solution is to clear out the DOM every time you want to add a new item to the list. 
 
-If you don't clear out the old DOM, it's easy to accidentally duplicate the whole list.
+- If you don't clear out the old DOM, it's easy to accidentally duplicate the whole list.
 
-There's suddenly a lot going on! 
-- So it might be a good idea to put all this work into a function. 
-- This function can be called whenever we want to refresh our list with the newest state.
+- There's suddenly a lot going on! 
+    - So it might be a good idea to put all this work into a function. 
+    - This function can be called whenever we want to refresh our list with the newest state.
 
 ```js
 // notice that this array is state. It is in 'global' scope.
@@ -89,13 +89,13 @@ function refreshList() {
 }
 ```
 
-One of these functions is pure and the other is impure. Which is which? What's the difference?
+- One of these functions is pure and the other is impure. Which is which? What's the difference?
 
 ## Where should functions live?
 
-Impure functions that manipulate existing DOM elements _must_ live in the main .js file. Otherwise, you will cause problems in your test suite down the road.
+- Impure functions that manipulate existing DOM elements _must_ live in the main .js file. Otherwise, you will cause problems in your test suite down the road.
 
-Pure functions that _create and return new DOM elements_ should probably live in a separate file and imported in.
+- Pure functions that _create and return new DOM elements_ should probably live in a separate file and imported in.
 
 ```js
 import { add } from './utils.js'

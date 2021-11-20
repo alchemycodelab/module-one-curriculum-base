@@ -8,13 +8,13 @@ const myDiv = document.getElementById('my-div');
 const myDiv = document.querySelectors('#my-div');
 ```
 
-`document.querySelector()` can eat anything that css can eat.
+- `document.querySelector()` can eat anything that css can eat.
 - If you want to grab an item by class, use `.my-class`, for example. 
 - But be careful: if you have more than one element with the class `.dog-box`, it will only return the first match it finds. - It's usually good to stick with ids for this kind of thing until you feel very comfortable with DOM manipulation.
 
 ## Functions for Reused Code
 
-There are two kinds of functions:
+- There are two kinds of functions: pure and impure.
 
 ### Pure Functions
 
@@ -55,7 +55,8 @@ function getRandomNumberBetween0And10(/*💥 impure function alert 💥 no argum
 }
 ```
 
-Question: What do you think is easier to test: pure or impure functions? Why?
+- **Consider**
+    - What do you think is easier to test: pure or impure functions? Why?
 
 ## Random numbers
 
@@ -70,15 +71,14 @@ myArray[randomNumber]
 
 ## State and View
 
-State is the whole point of apps.
+- State is the whole point of apps.
 
-State is anything that changes over time.
+- State is anything that changes over time.
 
-Every time state changes, update the DOM to show the user what the new state is.
+- Every time state changes, update the DOM to show the user what the new state is.
 
-In plain JS, state is usually stored in `let` variables. 
-
-Why do you think that is?
+- In plain JS, state is usually stored in `let` variables. 
+    - Why do you think that is?
 
 ```js
 let counter = 0;
@@ -101,28 +101,32 @@ button.addEventListener('click', () => {
     // usually, we do exactly 3 things here:
 
         // 1) get some information, somehow :)
+        const value = someInput.value;
         // then
         // 2) use that information to update state
+        greetingState = `Hello ${value}!`;
         // then
         // 3) update the DOM to reflect these state changes
+        greetingEl.textContent = greetingState;
 })
 ```
 
 ## Making a plan
 
-If you haven't gotten yourself into a mess yet, you won't believe me, but: planning is more important than coding.
+- f you haven't gotten yourself into a mess yet, you won't believe me, but: planning is more important than coding.
 
-Without a plan, it is all too easy to "try to do everything at once", or try to "make a sloppy copy" or "rough draft". 
+- Without a plan, it is all too easy to "try to do everything at once"
+    - Unlike writing in human languages, in coding language, it's always a bad idea to "make a sloppy copy" or "rough draft".
 
-The Golden Rule:  🦸 🦸‍♂️ `Stop starting and start finishing.` 🏁
+- The Golden Rule:  🦸 🦸‍♂️ `Stop starting and start finishing.` 🏁
 
-If you work on more than one feature at a time, you are guaranteed to multiply your bugs and your anxiety.
+- If you work on more than one feature at a time, you are guaranteed to multiply your bugs and your anxiety.
 
-When you've made a big enough mess, don't be surprised if me or a TA advises you to trash the repo and start over. 
-- We're not trying to be mean: we've all thrown out dozens of apps we've sunk hours into! 
-- It's sometimes just literally easier to start a project over than miserably debug a project where 'nothing works'.
+- When you've made a big enough mess, don't be surprised if me or a TA advises you to trash the repo and start over. 
+    - We're not trying to be mean: we've all thrown out dozens of apps we've sunk hours into! 
+    - It's sometimes just literally easier to start a project over than miserably debug a project where 'nothing works'.
 
-So here's how to work toward avoiding that situation:
+- So here's how to work toward avoiding that situation:
 
 1) Make a drawing of your app. Simple "wireframes"
 1) Once you have a drawing, name the HTML elements you'll need to realize your vision

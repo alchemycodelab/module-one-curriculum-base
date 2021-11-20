@@ -3,7 +3,9 @@
 
 ## Pure Functions that return DOM elements
 
-Consider this HTML. What's annoying about it? Would you enjoy writing HTML that looked like this?
+- Consider this HTML.
+    - What's annoying about it? 
+    - Would you enjoy writing HTML that looked like this?
 
 ```html
 <div class="dog">
@@ -20,9 +22,10 @@ Consider this HTML. What's annoying about it? Would you enjoy writing HTML that 
 </div>
 ```
 
-Notice that we're writing the same div several times with small differences.
+- Notice that we're writing the same div several times with small differences.
 
-For a number of reasons, you should avoid writing the same HTML over and over again. When you're in a situation like this, it's nice to write a function that can write our HTML for us!
+- For a number of reasons, you should avoid writing the same HTML over and over again. 
+- When you're in a situation like this, it's nice to write a function that can write our HTML for us!
 
 ```js
 export function renderDog(dog) {
@@ -41,7 +44,7 @@ export function renderDog(dog) {
 }
 ```
 
-`renderDog()` returns some an HTML element that looks like this:
+- `renderDog()` returns some an HTML element that looks like this:
 
 ```html
 <div class="dog">
@@ -50,7 +53,7 @@ export function renderDog(dog) {
 </div>
 ```
 
-We can call and use this function like so:
+- We can call and use this function like so:
 
 ```js
 // grab a hard coded DOM element from the HTML
@@ -72,7 +75,7 @@ container.append(dogEl);
 
 ## Forms
 
-Sometimes we want more than just one `input` worth of information at a time. 
+- Sometimes we want more than just one `input` worth of information at a time. 
 - That's when an HTML form is useful. 
 - It also gives us that snappy 'hit enter to submit' behavior.
 - The downside is that forms require us to remember 2 things:
