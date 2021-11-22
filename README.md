@@ -1,14 +1,6 @@
-# Pattern Zero 
-
-|  | Get | Set |
-|-----------|----|-------|
-| **State** | get State | set State |
-| **DOM**| get DOM  |  set DOM |
-
-Everything we do falls into one of these 4 activities
-
 # The 10 Patterns
 
+0) [The Core Pattern](#the-core-pattern)
 1) [Jiggle](#1-jiggle)
 1) [Event Handler](#2-event-handler)
 1) [Render function](#3-render-function)
@@ -20,6 +12,14 @@ Everything we do falls into one of these 4 activities
 1) [List / Detail](#9-list--detail)
 1) [List of clickables](#10-list-of-clickables)
 
+# The core pattern
+
+|  | Get | Set |
+|-----------|----|-------|
+| **State** | get State | set State |
+| **DOM**| get DOM  |  set DOM |
+
+Everything we do falls into one of these 4 activities
 ## 1) Jiggle: 
 
 The main .js file for each of your pages should follow this basic format:
