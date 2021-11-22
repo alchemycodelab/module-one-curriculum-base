@@ -62,7 +62,8 @@ export function renderCat(cat) {
 }
 ```
 
-### Examples include: soccer scorekeeper renderGame
+### Examples include: 
+- soccer scorekeeper renderGame
 
 ## 4) Display function 
 - An impure function that appends to or mutates existing DOM
@@ -85,7 +86,8 @@ function displayStats() {
 
 ```
 
-### Examples include: character creator displayStats
+### Examples include: 
+- character creator displayStats
 
 ## 5) Display a list
 1) loop through array
