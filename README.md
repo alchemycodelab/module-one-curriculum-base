@@ -18,8 +18,8 @@ Everything we do falls into one of these 4 activities:
 
 |  | Get | Set |
 |-----------|----|-------|
-| **State** | get State | set State |
-| **DOM**| get DOM  |  set DOM |
+| **State** | 1) get State | 2) set State |
+| **DOM**| 3) get DOM  |  4) set DOM |
 
 ## 1) Jiggle: 
 
