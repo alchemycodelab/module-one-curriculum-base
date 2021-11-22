@@ -20,7 +20,7 @@ All patterns revolve around these 4 fundamental activities:
 1) [List / Detail](#9-list--detail)
 1) [List of clickables](#10-list-of-clickables)
 
-## 1) Jiggle: 
+## 1) Jiggle 
 
 The main .js file for each of your pages should follow this basic format:
 
@@ -87,7 +87,9 @@ export function renderCat(cat) {
 
 ```js
 function displayStats() {
-    reportEl.textContent = `You have changed the head ${headCount} times, the body ${middleCount} times, and the pants ${bottomCount} times. And nobody can forget your character's classic catchphrases:`;
+    reportEl.textContent = `You have changed the head ${headCount} times, the 
+        body ${middleCount} times, and the pants ${bottomCount} times. And 
+        nobody can forget your character's classic catchphrases:`;
 }
 
 ```
