@@ -171,9 +171,9 @@ To do app: load todos
 bunny app: load families
 yawp: load profile, load restaurant
 
-## 8) Async create, delete, or update list item on click
+## 8) Async update a list on click
     1) add async 'click' listener
-    2)  await function to manipulate data in supabase
+    2) await function to manipulate data in supabase
     3) refetch updated data
     4) render and append updated data to dom
 
