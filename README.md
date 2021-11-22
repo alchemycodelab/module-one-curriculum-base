@@ -11,25 +11,25 @@ Everything we do falls into one of these 4 activities
 
 # Our 10 patterns:
 
-[Jiggle](#1-jiggle)
+[1. Jiggle](#1-jiggle)
 
-[Event Handler](#2-event-handler)
+[2. Event Handler](#2-event-handler)
 
-[Render function](#3-render-function)
+[3. Render function](#3-render-function)
 
-[Display Function](#4-display-function)
+[4. Display Function](#4-display-function)
 
-[Display a list](#5-display-a-list)
+[5. Display a list](#5-display-a-list)
 
-[Update a list](#6-update-a-list)
+[6. Update a list](#6-update-a-list)
 
-[Async fetch on 'load'](#7-async-fetch-on-load)
+[7. Async fetch on 'load'](#7-async-fetch-on-load)
 
-[Async update a list on click](#8-async-update-a-list-on-click)
+[8. Async update a list on click](#8-async-update-a-list-on-click)
 
-[List / Detail](#9-list--detail)
+[9. List / Detail](#9-list--detail)
 
-[List of clickables](#10-list-of-clickables)
+[10. List of clickables](#10-list-of-clickables)
 
 ## 1) Jiggle: 
 - Just
