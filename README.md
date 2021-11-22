@@ -19,11 +19,11 @@ Everything we do falls into one of these 4 activities
 
 [Display Function](#4-display-function)
 
-[Display a list](#05-display-a-list)
+[Display a list](#5-display-a-list)
 
-[Update a list](#06-update-a-list)
+[Update a list](#6-update-a-list)
 
-[Async fetch on 'load'](#7-async-fetch-on-'load')
+[Async fetch on 'load'](#7-async-fetch-on-load)
 
 [Async update a list on click](#8-async-update-a-list-on-click)
 
