@@ -1,4 +1,4 @@
-# Pattern Zero: 
+# Pattern Zero 
 
 |  | Get | Set |
 |-----------|----|-------|
@@ -7,7 +7,7 @@
 
 Everything we do falls into one of these 4 activities
 
-# The 10 Patterns:
+# The 10 Patterns
 
 1) [Jiggle](#1-jiggle)
 1) [Event Handler](#2-event-handler)
