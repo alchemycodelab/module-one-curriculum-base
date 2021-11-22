@@ -21,7 +21,6 @@ https://dpcairns.github.io/mushroom-festival/
 | Functions                                                                                |             |
 | :----------------------------------------------------------------------------------- | ----------: |
 | PURE: `findFriendByName(name, friends)` : return friend object` |1|
-| IMPURE: `addFriend(name, friends)` simply adds the friend to the state array, returning nothing (this works because arrays are passed 'by reference') |1|
 | PURE: `renderMushroom()` : return DOM node` |1|
 | PURE: `renderFriend(friend)` : return DOM node` |1|
 | IMPURE: `displayFriends(friends)` : clears and appends to friend list DOM node`
