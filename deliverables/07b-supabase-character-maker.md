@@ -24,7 +24,7 @@ https://dpcairns.github.io/character-designer/
 | AUTH: `checkAuth()` : redirect the user to login if nobody is currently not logged in |1|
 | ASYNC AUTH: `signupUser()` : create a new user in superbase and return user |1|
 | ASYNC AUTH: `signinUser()` : log into superbase and return currently logged in user |1|
-| ASYNC / DOM: `fetchAndRenderCharacter()` : fetches character and sets the images
+| ASYNC / IMPURE: `fetchAndDisplayCharacter()` : fetches character and sets the images in the DOM
 | ASYNC: `fetchCharacter()` : fetches character for currently logged in user from supabase
 | ASYNC: `updateHead(newHead)` : updates head of character for currently logged in user from supabase
 | ASYNC: `updateMiddle(newMiddle)` : updates middle of character for currently logged in user from supabase

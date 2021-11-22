@@ -16,7 +16,7 @@ https://dpcairns.github.io/soccer-scorekeeper/
 
 | Functions                                                              |             |
 | :----------------------------------------------------------------------------------- | ----------: |
-| IMPURE: `updateCurrentGameEl()` | 1|
-| IMPURE: `renderAllGames()` : clears out and appends to games div | 1|
+| IMPURE: `displayCurrentGameEl()` | 1|
+| IMPURE: `displayAllGames()` : clears out and appends to games div | 1|
 | PURE: `renderGame(game)` : returns DOM node | 1|
 | PURE: `renderTeam(name, score)` :  return DOM node | 1|

@@ -18,5 +18,7 @@ https://dpcairns.github.io/character-designer/
 
 | Functions                                                              |             |
 | :----------------------------------------------------------------------------------- | ----------: |
-| IMPURE: `renderStatsAndCatchphrases()` | 1 |
+| IMPURE: `displayStats()` | 1 |
+| IMPURE: `displayCatchphrases()` | 1 |
+
 
