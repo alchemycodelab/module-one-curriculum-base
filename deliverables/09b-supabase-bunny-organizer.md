@@ -4,7 +4,7 @@
 
 [Half Baked Supabase Fuzzy Bunny Organizer](https://github.com/alchemycodelab/half-baked-js-fuzzy-bunny-organizer)
 ### Live Example:
-https://dpcairns.github.io/fuzzy-bunny-organizer/
+https://alchemycodelab.github.io/js-fuzzy-bunny-organizer/
 
 | User should be able to . . .                                                         |             |
 | :----------------------------------------------------------------------------------- | ----------: |

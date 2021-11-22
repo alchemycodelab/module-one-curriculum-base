@@ -4,7 +4,7 @@
 
 [Half Baked Hide and Seek](https://github.com/alchemycodelab/half-baked-js-hide-and-seek)
 ### Live Example:
-https://dpcairns.github.io/hide-and-seek/
+https://alchemycodelab.github.io/js-hide-and-seek/
 
 | User should be able to . . .                                                         |             |
 | :----------------------------------------------------------------------------------- | ----------: |

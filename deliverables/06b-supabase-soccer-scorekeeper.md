@@ -5,7 +5,7 @@
 [Half Baked Supabase Soccer Scorekeeper](https://github.com/alchemycodelab/half-baked-js-soccer-scorekeeper-supabase)
 
 ### Live Example:
-https://dpcairns.github.io/soccer-scorekeeper/
+https://alchemycodelab.github.io/js-soccer-scorekeeper/
 
 | User should be able to . . .                                                         |             |
 | :----------------------------------------------------------------------------------- | ----------: |

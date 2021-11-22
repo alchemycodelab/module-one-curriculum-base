@@ -5,7 +5,7 @@
 [Half Baked Character Designer](https://github.com/alchemycodelab/half-baked-js-character-designer)
 
 ### Live Example:
-https://dpcairns.github.io/character-designer/
+https://alchemycodelab.github.io/js-character-designer/
 
 | User should be able to . . .                                                         |             |
 | :----------------------------------------------------------------------------------| ----------: |

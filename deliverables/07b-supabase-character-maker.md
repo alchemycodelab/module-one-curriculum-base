@@ -6,7 +6,7 @@
 
 
 ### Live Example:
-https://dpcairns.github.io/character-designer/
+https://alchemycodelab.github.io/js-character-designer/
 
 | User should be able to . . .                                                         |             |
 | :----------------------------------------------------------------------------------- | ----------: |

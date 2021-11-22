@@ -5,7 +5,7 @@
 [Half Baked Supabase Todo App](https://github.com/alchemycodelab/half-baked-js-todo-supabase)
 
 ### Live Example:
-https://dpcairns.github.io/todo-supabase/
+https://alchemycodelab.github.io/js-todo-supabase/
 
 | User should be able to . . .                                                         |             |
 | :----------------------------------------------------------------------------------- | ----------: |

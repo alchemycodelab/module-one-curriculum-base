@@ -5,7 +5,7 @@
 [Half Baked Mushroom Festival](https://github.com/alchemycodelab/half-baked-js-mushroom-festival)
 
 ### Live Example:
-https://dpcairns.github.io/mushroom-festival/
+https://alchemycodelab.github.io/js-mushroom-festival/
 
 # Mushroom Festival
 

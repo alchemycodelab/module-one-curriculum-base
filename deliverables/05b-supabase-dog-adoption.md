@@ -5,7 +5,7 @@
 [Half Baked Supabase Adopt a Dog](https://github.com/alchemycodelab/half-baked-js-adopt-a-dog)
 
 ### Live Example:
-https://dpcairns.github.io/adopt-a-dog/
+https://alchemycodelab.github.io/js-adopt-a-dog/
 
 
 | User should be able to . . .                                                         |             |
