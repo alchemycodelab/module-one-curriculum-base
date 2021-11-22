@@ -2,4 +2,4 @@
 
 ## Async/Await and updating in supabase 
 
-Remember to always use `.match({ user_id: client.auth.session().user.id })`, especially in the 'batteries included' assignments.
+Remember to always use `.match({ user_id: client.auth.session().user.id })`  for user-created entities, especially in the 'batteries included' assignments.
