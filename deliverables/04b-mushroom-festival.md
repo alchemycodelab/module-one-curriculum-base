@@ -1,5 +1,9 @@
 # Deliverable 04 - Mushroom Festival
 
+[Buggy Mushroom Festival](https://github.com/alchemycodelab/buggy-js-mushroom-festival)
+
+[Half Baked Mushroom Festival](https://github.com/alchemycodelab/half-baked-js-mushroom-festival)
+
 ### Live Example:
 https://dpcairns.github.io/mushroom-festival/
 

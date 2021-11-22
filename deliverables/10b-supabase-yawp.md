@@ -1,4 +1,3 @@
-
 # Deliverable 10 - Supabase Yelp-alike
 
 ### Live Example:

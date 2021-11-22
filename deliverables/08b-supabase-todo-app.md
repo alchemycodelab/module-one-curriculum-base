@@ -1,5 +1,9 @@
 # Deliverable 08 - Supabase Todo App
 
+[Buggy Supabase Todo App](https://github.com/alchemycodelab/buggy-js-todo-supabase)
+
+[Half Baked Supabase Todo App](https://github.com/alchemycodelab/half-baked-js-todo-supabase)
+
 ### Live Example:
 https://dpcairns.github.io/todo-supabase/
 

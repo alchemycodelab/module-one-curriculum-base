@@ -1,5 +1,8 @@
-
 # Deliverable 02 - Dropdown Character Maker
+
+[Buggy Character Designer](https://github.com/alchemycodelab/buggy-js-character-designer)
+
+[Half Baked Character Designer](https://github.com/alchemycodelab/half-baked-js-character-designer)
 
 ### Live Example:
 https://dpcairns.github.io/character-designer/

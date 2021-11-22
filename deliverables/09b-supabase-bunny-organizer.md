@@ -1,5 +1,8 @@
 # Deliverable 09 - Supabase Fuzzy Bunny Organizer
 
+[Buggy Supabase Fuzzy Bunny Organizer](https://github.com/alchemycodelab/buggy-js-fuzzy-bunny-organizer)
+
+[Half Baked Supabase Fuzzy Bunny Organizer](https://github.com/alchemycodelab/half-baked-js-fuzzy-bunny-organizer)
 ### Live Example:
 https://dpcairns.github.io/fuzzy-bunny-organizer/
 

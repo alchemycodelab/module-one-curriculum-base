@@ -1,5 +1,8 @@
-
 # Deliverable 06 - Supabase Soccer Scorekeeper
+
+[Buggy Supabase Soccer Scorekeeper](https://github.com/alchemycodelab/buggy-js-soccer-scorekeeper-supabase)
+
+[Half Baked Supabase Soccer Scorekeeper](https://github.com/alchemycodelab/half-baked-js-soccer-scorekeeper-supabase)
 
 ### Live Example:
 https://dpcairns.github.io/soccer-scorekeeper/

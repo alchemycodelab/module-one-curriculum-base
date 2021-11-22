@@ -1,7 +1,8 @@
-
-
 # Deliverable 01 - Hide and Seek
 
+[Buggy Hide and Seek](https://github.com/alchemycodelab/buggy-js-hide-and-seek/)
+
+[Half Baked Hide and Seek](https://github.com/alchemycodelab/half-baked-js-hide-and-seek)
 ### Live Example:
 https://dpcairns.github.io/hide-and-seek/
 

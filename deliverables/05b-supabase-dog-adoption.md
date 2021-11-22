@@ -1,5 +1,9 @@
 # Deliverable 05 - Supabase Dog Adoption App
 
+[Buggy Supabase Adopt a Dog](https://github.com/alchemycodelab/buggy-js-adopt-a-dog)
+
+[Half Baked Supabase Adopt a Dog](https://github.com/alchemycodelab/half-baked-js-adopt-a-dog)
+
 ### Live Example:
 https://dpcairns.github.io/adopt-a-dog/
 

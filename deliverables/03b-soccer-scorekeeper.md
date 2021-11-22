@@ -1,5 +1,9 @@
 # Deliverable 03 - Soccer Scorekeeper
 
+[Buggy Soccer Scorekeeper](https://github.com/alchemycodelab/buggy-js-soccer-scorekeeper)
+
+[Half Baked Soccer Scorekeeper](https://github.com/alchemycodelab/half-baked-js-soccer-scorekeeper)
+
 ### Live Example:
 https://dpcairns.github.io/soccer-scorekeeper/
 
