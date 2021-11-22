@@ -1,6 +1,14 @@
+## The Pattern of Patterns
+
+All patterns revolve around these 4 fundamental activities:
+
+|  | Get | Set |
+|-----------|----|-------|
+| **State** | 1) get State | 2) set State |
+| **DOM**| 3) get DOM  |  4) set DOM |
+
 # The 10 Patterns
 
-0) [The Pattern of Patterns](#the-pattern-of-patterns)
 1) [Jiggle](#1-jiggle)
 1) [Event Handler](#2-event-handler)
 1) [Render function](#3-render-function)
@@ -11,15 +19,6 @@
 1) [Async update a list on click](#8-async-update-a-list-on-click)
 1) [List / Detail](#9-list--detail)
 1) [List of clickables](#10-list-of-clickables)
-
-## The Pattern of Patterns
-
-Everything we do falls into one of these 4 activities:
-
-|  | Get | Set |
-|-----------|----|-------|
-| **State** | 1) get State | 2) set State |
-| **DOM**| 3) get DOM  |  4) set DOM |
 
 ## 1) Jiggle: 
 
