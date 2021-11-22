@@ -27,10 +27,9 @@ Everything we do falls into one of these 4 activities
 The main .js file for each of your pages should follow this basic format:
 
 - Just
-- `Import`
-- Grab DOM with 
-- `getElementById`
-- `Let state` 
+- `import` functions
+- Grab DOM with `getElementById`
+- `let state` 
 - `(add)EventListener` for each event
 
 ### Examples include: 
