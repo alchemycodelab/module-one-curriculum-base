@@ -4,11 +4,11 @@
 ## [02 - Character Designer](deliverables/02b-character-maker.md)
 [![](./assets/character-designer.png)](deliverables/02b-character-maker.md)
 
-## [03 - Mushroom Festival](deliverables/03b-soccer-scorekeeper.md)
-[![](./assets/mushroom-festival.png)](deliverables/03b-soccer-scorekeeper.md)
-
-## [04 - Soccer Scorekeeper](deliverables/04b-mushroom-festival.md)
+## [03 - Soccer Scorekeeper](deliverables/04b-mushroom-festival.md)
 [![](./assets/soccer-scorekeeper.png)](deliverables/04b-mushroom-festival.md)
+
+## [04 - Mushroom Festival](deliverables/03b-soccer-scorekeeper.md)
+[![](./assets/mushroom-festival.png)](deliverables/03b-soccer-scorekeeper.md)
 
 ## [05 - Adopt-a-Dog](deliverables/05b-supabase-dog-adoption.md)
 [![](./assets/adopt-a-dog-detail.png)](deliverables/05b-supabase-dog-adoption.md)

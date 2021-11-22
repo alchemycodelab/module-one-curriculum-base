@@ -6,6 +6,8 @@
 ### Live Example:
 https://alchemycodelab.github.io/js-fuzzy-bunny-organizer/
 
+![](../assets/fuzzy-bunnies.png)
+
 | User should be able to . . .                                                         |             |
 | :----------------------------------------------------------------------------------- | ----------: |
 | Visit the deployed pages on GitHub pages, with link in the About section of the Github repo |    1 |

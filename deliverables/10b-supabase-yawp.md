@@ -3,6 +3,10 @@
 ### Live Example:
 https://upgraded-winner-147551f5.pages.github.io/ 
 
+![](../assets/yawp-profile.png)
+![](../assets/yawp-search.png)
+![](../assets/yawp-profile.png)
+
 | User should be able to . . .                                                         |             |
 | :----------------------------------------------------------------------------------- | ----------: |
 | Visit the deployed pages on GitHub pages, with link in the About section of the Github repo |    1 |

@@ -7,6 +7,8 @@
 ### Live Example:
 https://alchemycodelab.github.io/js-mushroom-festival/
 
+![](../assets/mushroom-festival.png)
+
 # Mushroom Festival
 
 | User should be able to . . .                                                         |             |

@@ -7,6 +7,9 @@
 ### Live Example:
 https://alchemycodelab.github.io/js-adopt-a-dog/
 
+![](../assets/adopt-a-dog-detail.png)
+![](../assets/adopt-a-dog-list.png)
+
 
 | User should be able to . . .                                                         |             |
 | :----------------------------------------------------------------------------------- | ----------: |
