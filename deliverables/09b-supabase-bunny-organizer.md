@@ -25,9 +25,6 @@ https://alchemycodelab.github.io/js-fuzzy-bunny-organizer/
 
 | Functions                                                                                |             |
 | :----------------------------------------------------------------------------------- | ----------: |
-| AUTH: `getUser()` : return currently logged in user |1|
-| ASYNC AUTH: `signupUser()` : create a new user in superbase and return user |1|
-| ASYNC AUTH: `signinUser()` : log into superbase and return currently logged in user |1|
 | PURE: `renderFamily(family)` : returns a DOM node with family and their bunnies |1|
 | PURE: `renderBunny(bunny)` : returns a DOM node the bunny |1|
 | ASYNC: `getFamilies()` : get all bunnies in supabase. (These families are the same for everybody in the cohort and do not 'belong' to any particular user. Your bunnies will show up for everybody) |1|

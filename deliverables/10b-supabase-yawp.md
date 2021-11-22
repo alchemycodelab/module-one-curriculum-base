@@ -25,9 +25,6 @@ https://upgraded-winner-147551f5.pages.github.io/
 
 | Functions                                                                                |             |
 | :----------------------------------------------------------------------------------- | ----------: |
-| AUTH: `getUser()` : return currently logged in user |1|
-| ASYNC AUTH: `signupUser()` : create a new user in superbase and return user |1|
-| ASYNC AUTH: `signinUser()` : log into superbase and return currently logged in user |1|
 | PURE: `renderRestaurantCard(restaruant)` : returns a DOM node |1|
 | PURE: `renderReview(review)` : returns a DOM node |1|
 | PURE: `renderRestaruantDetail(restaurant)` : returns a DOM node (including reviews) |1|

@@ -28,10 +28,6 @@ https://alchemycodelab.github.io/js-todo-supabase/
 
 | Functions                                                                                |             |
 | :----------------------------------------------------------------------------------- | ----------: |
-| AUTH: `getUser()` : return currently logged in user |1|
-| AUTH: `checkAuth()` : redirect the user to login if nobody is currently not logged in |1|
-| ASYNC AUTH: `signupUser()` : create a new user in superbase and return user |1|
-| ASYNC AUTH: `signinUser()` : log into superbase and return currently logged in user |1|
 | ASYNC: `createTodo(todo)` : create a todo in supabase for the logged-in user |1|
 | ASYNC: `deleteAllTodos(todo)` : delete all todos  in supabasefor the logged-in user |1|
 | ASYNC: `getTodos()` : get all todos in supabase for the logged-in user |1|

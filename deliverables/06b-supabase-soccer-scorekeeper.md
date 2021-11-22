@@ -28,9 +28,5 @@ https://alchemycodelab.github.io/js-soccer-scorekeeper/
 | IMPURE: `displayAllGames()` : clears out and appends to games div | 1|
 | PURE: `renderGame(game)` : returns DOM node | 1|
 | PURE: `renderTeam(name, score)` :  return DOM node | 1|
-| AUTH: `getUser()` : return currently logged in user |1|
-| AUTH: `checkAuth()` : redirect the user to login if nobody is currently not logged in |1|
-| ASYNC AUTH: `signupUser()` : create a new user in superbase and return user |1|
-| ASYNC AUTH: `signinUser()` : log into superbase and return currently logged in user |1|
 | ASYNC: `createGame(game)` : creates a game for currently logged in user in supabase |1|
 | ASYNC: `getGames()` : returns games for currently logged in user from supabase |1|
