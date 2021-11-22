@@ -14,12 +14,13 @@
 
 # The core pattern
 
+Everything we do falls into one of these 4 activities:
+
 |  | Get | Set |
 |-----------|----|-------|
 | **State** | get State | set State |
 | **DOM**| get DOM  |  set DOM |
 
-Everything we do falls into one of these 4 activities
 ## 1) Jiggle: 
 
 The main .js file for each of your pages should follow this basic format:
