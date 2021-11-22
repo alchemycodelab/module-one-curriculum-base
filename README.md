@@ -1,6 +1,4 @@
-# Patterns
-
-The core pattern: 
+# Pattern Zero: 
 
 |  | Get | Set |
 |-----------|----|-------|
@@ -9,7 +7,7 @@ The core pattern:
 
 Everything we do falls into one of these 4 activities
 
-# Our 10 patterns:
+# The 10 Patterns:
 
 1) [Jiggle](#1-jiggle)
 1) [Event Handler](#2-event-handler)
