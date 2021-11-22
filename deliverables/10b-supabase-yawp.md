@@ -3,8 +3,8 @@
 ### Live Example:
 https://upgraded-winner-147551f5.pages.github.io/ 
 
-![](../assets/yawp-profile.png)
 ![](../assets/yawp-search.png)
+![](../assets/yawp-detail.png)
 ![](../assets/yawp-profile.png)
 
 | User should be able to . . .                                                         |             |

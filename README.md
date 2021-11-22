@@ -27,6 +27,6 @@
 [![](./assets/fuzzy-bunnies.png)](deliverables/09b-supabase-bunny-organizer.md)
 
 ## [10 - Supabase Yawp Restaruant Reviewer](deliverables/10b-supabase-yawp.md)
-[![](./assets/yawp-profile.png)](deliverables/10b-supabase-yawp.md)
 [![](./assets/yawp-search.png)](deliverables/10b-supabase-yawp.md)
+[![](./assets/yawp-detail.png)](deliverables/10b-supabase-yawp.md)
 [![](./assets/yawp-profile.png)](deliverables/10b-supabase-yawp.md)
