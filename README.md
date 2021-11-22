@@ -45,6 +45,7 @@ button.addEventListener('click', () => {
 ## 3) Render function 
 
 - A pure function that takes in an object and returns an HTML element _without appending it to any external DOM_
+- Should always live in a separate file, to be imported then called.
 
 ```js
 export function renderCat(cat) {
@@ -70,14 +71,8 @@ export function renderCat(cat) {
 - Often uses global state
 - Often loops or calls render functions. 
 - This function may or may not take an argument.
-
-```js
-function resetStyles() {
-    shedContainer.classList.remove('face');
-    treeContainer.classList.remove('face');
-    boulderContainer.classList.remove('face');
-}
-```
+- Must always live in the same file as the DOM elements it grabs and the state it references.
+    - Usually not to be imported.
 
 ```js
 function displayStats() {
