@@ -30,8 +30,8 @@ The main .js file for each of your pages should follow this basic format:
 - `let state` 
 - `(add)EventListener` for each event
 
-### Examples include: 
-- organization of all apps
+<!-- ### Examples include: 
+- organization of all apps -->
 
 ## 2) Event handler 
 1) add click listener to a dom element
@@ -50,8 +50,8 @@ button.addEventListener('click', () => {
 });
 ```
 
-### Examples include: 
-- user interaction in all apps
+<!-- ### Examples include: 
+- user interaction in all apps -->
 
 ## 3) Render function 
 
@@ -74,8 +74,8 @@ export function renderCat(cat) {
 }
 ```
 
-### Examples include: 
-- soccer scorekeeper renderGame
+<!-- ### Examples include: 
+- soccer scorekeeper renderGame -->
 
 ## 4) Display function 
 - An impure function that appends to or mutates existing DOM
@@ -92,8 +92,8 @@ function displayStats() {
 
 ```
 
-### Examples include: 
-- character creator displayStats
+<!-- ### Examples include: 
+- character creator displayStats -->
 
 ## 5) Display a list
 1) loop through array
@@ -110,11 +110,11 @@ function displayStats() {
     }
 }
 ```
-
+<!-- 
 ### Examples include: 
 character creator: display catchphrases
 Soccer scorekeeper: display game history
-Mushroom festival: display friends, display mushrooms
+Mushroom festival: display friends, display mushrooms -->
 
 ## 6) Update a list
 1) add (or remove) item to state array
@@ -132,9 +132,9 @@ finishGameButton.addEventListener('click', () => {
 });
 ```
 
-### Examples include:
+<!-- ### Examples include:
 Character creator: add catchphrase, soccer scorekeeper: add game to history,
-mushroom festival: add friend, feed friend, add musroom (exception: no data array)
+mushroom festival: add friend, feed friend, add musroom (exception: no data array) -->
 
 ## 7) Async fetch on 'load'
 1) add async 'load' listener to the window
@@ -153,14 +153,14 @@ window.addEventListener('load', async() => {
     }
 });
 ```
-
+<!-- 
 ### Examples include: 
 dog list: get dogs, dog detail get dog
 character creator: load character
 soccer scorekeeper: load game history
 To do app: load todos
 bunny app: load families
-yawp: load profile, load restaurant
+yawp: load profile, load restaurant -->
 
 ## 8) Async update a list on click
     1) add async 'click' listener
@@ -180,13 +180,13 @@ button.addEventListener('click', async e => {
     displayLizards();
 });
 ```
-
+<!-- 
 ### Examples include: 
 - soccer scorekeeper: add game to history
 - character creator: update character/ add catchphrase
 - todo app: add todo, complete todo, delete todos
 - bunny app create bunny, delete bunny
-- yawp create review, search restaurants
+- yawp create review, search restaurants -->
 
 ## 9) List / Detail 
 - list pages display a list where each item contains a link to a detail page about that particular item
@@ -205,10 +205,10 @@ const cat = await getCat(id);
 const catDetailEl = renderCatDetail(cat);
 catDetailContainer.append(catDetailEl);
 ```
-
+<!-- 
 ### Examples include: 
 - Dog list detail page, 
-- yawp profile page, yawp restaurant page
+- yawp profile page, yawp restaurant page -->
 
 ## 10) List of clickables 
 - display a list, plus add an event listener to each rendered element inside the loop. Arguably, list/detail is a subset of this pattern with a link instead of an event listener
@@ -227,7 +227,7 @@ for (let todo of todos) {
 }
 ```
 
-### Examples include:
+<!-- ### Examples include:
 - Mushroom festival: feed friends
 - To do app: complete todo
-- Bunny app: delete bunny
+- Bunny app: delete bunny -->
