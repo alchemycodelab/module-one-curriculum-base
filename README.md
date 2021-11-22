@@ -23,12 +23,15 @@ Everything we do falls into one of these 4 activities
 1) [List of clickables](#10-list-of-clickables)
 
 ## 1) Jiggle: 
+
+The main .js file for each of your pages should follow this basic format:
+
 - Just
-- Import 
+- `Import`
 - Grab DOM with 
-- GetElementById
-- Let state 
-- Event listeners
+- `getElementById`
+- `Let state` 
+- `(add)EventListener` for each event
 
 ### Examples include: 
 - organization of all apps
