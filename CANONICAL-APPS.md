@@ -18,4 +18,4 @@
 
 [Canonical Supabase Fuzzy Bunny Organizer](https://github.com/alchemycodelab/js-fuzzy-bunny-organizer)
 
-[Canonical Yawp](https://github.com/alchemycodelab/yawp-vanilla-js)
+[Canonical Yawp Restaurant Reviewer](https://github.com/alchemycodelab/yawp-vanilla-js)
