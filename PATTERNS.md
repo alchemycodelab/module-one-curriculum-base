@@ -212,7 +212,8 @@ catDetailContainer.append(catDetailEl);
 - yawp profile page, yawp restaurant page -->
 
 ## 10) List of clickables 
-- display a list, plus add an event listener to each rendered element inside the loop. Arguably, list/detail is a subset of this pattern with a link instead of an event listener
+    - display a list, plus add an event listener to each rendered element inside the loop. 
+    - Arguably, list/detail is a subset of this pattern with a link instead of an event listener
 
 ```js
 for (let todo of todos) {
