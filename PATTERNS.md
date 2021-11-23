@@ -34,10 +34,10 @@ The main .js file for each of your pages should follow this basic format:
 - organization of all apps -->
 
 ## 2) Event handler 
-1) add click listener to a dom element
-2) optional: get form info
-3) change state
-4) update dom
+    1) add click listener to a dom element
+    2) optional: get form info
+    3) change state
+    4) update dom
 
 ```js
 button.addEventListener('click', () => {
@@ -54,9 +54,8 @@ button.addEventListener('click', () => {
 - user interaction in all apps -->
 
 ## 3) Render function 
-
-- A pure function that takes in an object and returns an HTML element _without appending it to any external DOM_
-- Should always live in a separate file, to be imported then called.
+    - A pure function that takes in an object and returns an HTML element _without appending it to any external DOM_
+    - Should always live in a separate file, to be imported then called.
 
 ```js
 export function renderCat(cat) {
@@ -78,12 +77,12 @@ export function renderCat(cat) {
 - soccer scorekeeper renderGame -->
 
 ## 4) Display function 
-- An impure function that appends to or mutates existing DOM
-- Often uses global state
-- Often loops or calls render functions. 
-- This function may or may not take an argument.
-- Must always live in the same file as the DOM elements it grabs and the state it references.
-    - Usually not to be imported.
+    - An impure function that appends to or mutates existing DOM
+    - Often uses global state
+    - Often loops or calls render functions. 
+    - This function may or may not take an argument.
+    - Must always live in the same file as the DOM elements it grabs and the state it references.
+        - Usually not to be imported.
 
 ```js
 function displayStats() {
@@ -98,9 +97,9 @@ function displayStats() {
 - character creator displayStats -->
 
 ## 5) Display a list
-1) loop through array
-2) for each item render an html element
-3) append each element to the dom
+    1) loop through array
+    2) for each item render an html element
+    3) append each element to the dom
 
 ```js
     for (let game of pastGames) {
@@ -119,10 +118,10 @@ Soccer scorekeeper: display game history
 Mushroom festival: display friends, display mushrooms -->
 
 ## 6) Update a list
-1) add (or remove) item to state array
-2) clear dom list
-3) loop through updated list
-4) render and append updated list items to cleared dom
+    1) add (or remove) item to state array
+    2) clear dom list
+    3) loop through updated list
+    4) render and append updated list items to cleared dom
 
 ```js
 finishGameButton.addEventListener('click', () => {
@@ -139,9 +138,9 @@ Character creator: add catchphrase, soccer scorekeeper: add game to history,
 mushroom festival: add friend, feed friend, add musroom (exception: no data array) -->
 
 ## 7) Async fetch on 'load'
-1) add async 'load' listener to the window
-2)  await function to fetch data from supabase
-3) render and append fetched data to dom
+    1) add async 'load' listener to the window
+    2)  await function to fetch data from supabase
+    3) render and append fetched data to dom
 
 ```js
 window.addEventListener('load', async() => {
@@ -191,8 +190,8 @@ button.addEventListener('click', async e => {
 - yawp create review, search restaurants -->
 
 ## 9) List / Detail 
-- list pages display a list where each item contains a link to a detail page about that particular item
-- detail pages shows that item's id in the url. Detail pages shows info about just that item
+    - list pages display a list where each item contains a link to a detail page about that particular item
+    - detail pages shows that item's id in the url. Detail page shows info about just that item
 
 
 ```js
