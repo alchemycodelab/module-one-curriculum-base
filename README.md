@@ -10,7 +10,7 @@
 ## [04 - Mushroom Festival](deliverables/03b-soccer-scorekeeper.md)
 [![](./assets/mushroom-festival.png)](deliverables/03b-soccer-scorekeeper.md)
 
-## [05 - Adopt-a-Dog](deliverables/05b-supabase-dog-adoption.md)
+## [05 - Supabase Adopt-a-Dog](deliverables/05b-supabase-dog-adoption.md)
 [![](./assets/adopt-a-dog-detail.png)](deliverables/05b-supabase-dog-adoption.md)
 [![](./assets/adopt-a-dog-list.png)](deliverables/05b-supabase-dog-adoption.md)
 
