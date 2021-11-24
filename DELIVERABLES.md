@@ -38,3 +38,9 @@
 [Half Baked Supabase Todo App](https://github.com/alchemycodelab/half-baked-js-todo-supabase)
 
 [Half Baked Supabase Fuzzy Bunny Organizer](https://github.com/alchemycodelab/half-baked-js-fuzzy-bunny-organizer)
+
+## Code Challenges
+
+[Intro Code Challenge](https://github.com/alchemycodelab/code-challenge-intro)
+
+[Munging Code Challenge](https://github.com/alchemycodelab/code-challenge-munge)
