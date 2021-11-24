@@ -41,6 +41,6 @@
 
 ## Code Challenges
 
-[Intro Code Challenge](https://github.com/alchemycodelab/code-challenge-intro)
+[String and Array Code Challenge](https://github.com/alchemycodelab/code-challenge-string-and-array)
 
 [Munging Code Challenge](https://github.com/alchemycodelab/code-challenge-munge)
