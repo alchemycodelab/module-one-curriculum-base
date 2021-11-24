@@ -41,7 +41,7 @@
 
 ## Code Challenges
 
-[TDD Code Challenge](https://github.com/alchemycodelab/code-challenge-TDD)
+[TDD Code Challenge](https://github.com/alchemycodelab/code-challenge-tdd)
 
 [String and Array Code Challenge](https://github.com/alchemycodelab/code-challenge-string-and-array)
 
