@@ -18,6 +18,8 @@
 
 [Fuzzy Bunny Organizer](https://alchemycodelab.github.io/js-fuzzy-bunny-organizer/)
 
+[Yawp Restaurant Reviewer](https://upgraded-winner-147551f5.pages.github.io/)
+
 ## Buggy Deliverables
 
 [Buggy Hide and Seek](https://github.com/alchemycodelab/buggy-js-hide-and-seek/)
