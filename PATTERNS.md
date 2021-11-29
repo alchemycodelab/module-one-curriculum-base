@@ -24,11 +24,12 @@ All patterns revolve around these 4 fundamental activities:
 
 The main .js file for each of your pages should follow this basic format:
 
-- We always:
-    - `import` functions
-    - Grab DOM with `getElementById`
-    - `let state` 
-    - `(add)EventListener` for each event
+- W: We always just . . .
+- I: `import`
+- G: Grab DOM elements
+- G: with `document.getElementById()`
+- L: `let` state
+- E: listen for events
 
 
 ## 2) Event handler 

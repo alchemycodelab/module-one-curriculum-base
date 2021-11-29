@@ -1,5 +1,13 @@
 # Lecture 3 - Simple State and Event Listeners
 
+## Wiggle
+
+- W: We always just . . .
+- I: `import`
+- G: Grab DOM elements
+- G: with `document.getElementById()`
+- L: `let` state
+- E: listen for events
 ## 'Grabbing' elements with document.querySelector() 
 
 ```js
