@@ -9,7 +9,7 @@ All patterns revolve around these 4 fundamental activities:
 
 # The 10 Patterns
 
-1) [Jiggle](#1-jiggle)
+1) [Wiggle](#1-wiggle)
 1) [Event Handler](#2-event-handler)
 1) [Render function](#3-render-function)
 1) [Display Function](#4-display-function)
@@ -20,15 +20,15 @@ All patterns revolve around these 4 fundamental activities:
 1) [List / Detail](#9-list--detail)
 1) [List of clickables](#10-list-of-clickables)
 
-## 1) Jiggle 
+## 1) Wiggle 
 
 The main .js file for each of your pages should follow this basic format:
 
-- Just
-- `import` functions
-- Grab DOM with `getElementById`
-- `let state` 
-- `(add)EventListener` for each event
+- We always:
+    - `import` functions
+    - Grab DOM with `getElementById`
+    - `let state` 
+    - `(add)EventListener` for each event
 
 <!-- ### Examples include: 
 - organization of all apps -->
