@@ -1,4 +1,4 @@
-# Lecture 3 - Simple State and Event Listeners
+# Lecture 1 - Simple State and Event Listeners
 
 ## Wiggle
 
