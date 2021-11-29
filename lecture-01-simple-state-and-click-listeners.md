@@ -14,7 +14,7 @@
 ```js
 // these two statements are exactly the same
 const myDiv = document.getElementById('my-div');
-const myDiv = document.querySelectors('#my-div');
+const myDiv = document.querySelector('#my-div');
 ```
 
 - `document.querySelector()` can eat anything that css can eat.
