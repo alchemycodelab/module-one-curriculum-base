@@ -1,3 +1,23 @@
+## Live Sites
+
+[Hide and Seek](https://alchemycodelab.github.io/js-hide-and-seek/)
+
+[Character Designer](https://alchemycodelab.github.io/js-character-designer/)
+
+[Soccer Scorekeeepr](https://alchemycodelab.github.io/js-soccer-scorekeeper/)
+
+[Mushroom Festival](https://alchemycodelab.github.io/js-mushroom-festival/)
+
+[Adopt-a-Dog](https://alchemycodelab.github.io/js-adopt-a-dog/)
+
+[Soccer Scorekeeper Supabase](https://alchemycodelab.github.io/js-soccer-scorekeeper-supabase/)
+
+[Character Designer Supabase](https://fantastic-carnival-aef94da0.pages.github.io/)
+
+[Todos Supabase](https://alchemycodelab.github.io/js-todo-supabase/)
+
+[Fuzzy Bunny Organizer](https://alchemycodelab.github.io/js-fuzzy-bunny-organizer/)
+
 ## Buggy Deliverables
 
 [Buggy Hide and Seek](https://github.com/alchemycodelab/buggy-js-hide-and-seek/)
