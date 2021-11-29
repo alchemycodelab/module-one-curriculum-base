@@ -44,7 +44,7 @@ const sum = add(5, 6);
 
 ```js
 // notice that this variable is defined _outside the function declaration_
-const coolDivFromHTML = document.querySelector('#my-divs)
+const coolDivFromHTML = document.querySelector('#my-divs')
 
 function mutateCoolDiv(words) {
     // 💥 impure function alert 💥
