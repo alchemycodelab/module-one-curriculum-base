@@ -2,12 +2,13 @@
 
 ## Wiggle
 
-- W: We always just . . .
+- W: We always just
 - I: `import`
 - G: Grab DOM elements
 - G: with `document.getElementById()`
 - L: `let` state
-- E: listen for events
+- E: and listen for events
+
 ## 'Grabbing' elements with document.querySelector() 
 
 ```js
@@ -18,7 +19,8 @@ const myDiv = document.querySelectors('#my-div');
 
 - `document.querySelector()` can eat anything that css can eat.
 - If you want to grab an item by class, use `.my-class`, for example. 
-- But be careful: if you have more than one element with the class `.dog-box`, it will only return the first match it finds. - It's usually good to stick with ids for this kind of thing until you feel very comfortable with DOM manipulation.
+- But be careful: if you have more than one element with the class `.dog-box`, it will only return the first match it finds. 
+- It's usually good to stick with `#ids` for this kind of thing until you feel very comfortable with DOM manipulation.
 
 ## Functions for Reused Code
 

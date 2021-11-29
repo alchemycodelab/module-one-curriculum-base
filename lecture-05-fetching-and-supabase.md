@@ -3,8 +3,6 @@
 
 ## Supabase dashboard
 
-## Async/Await and Fetching in supabase
-
 ## fetch-utils.js
 
 ```js
@@ -13,6 +11,23 @@ const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsI
 
 const client = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
 ```
+
+## Async/Await and Fetching in supabase
+
+[Supabase Select Docs](https://supabase.com/docs/reference/javascript/select)
+
+```js
+const allDogs = await client
+    .from('dogs')
+    .select();
+
+const dogNumberSeven = await client
+    .from('dogs')
+    .select()
+    .match({ id: 7 })
+    .single();
+```
+
 ## The 'load' event
 
 ```js
@@ -22,3 +37,20 @@ window.addEventListener('load', async () => {
 ```
 
 ## Query Params
+
+Let's say you have a URL like this: `www.my-website.com/?id=5&name=dani`
+
+Notice the weird question mark syntax at the end. This format is called a query string.
+
+Think of a query string as kind of an object (key/value pairs) that lives in the URL.
+
+In this case, the id is 5 and the name is 'dani'.
+
+In your JavaScript, you can get the id and name from the query string like so:
+
+```js
+const params = new URLSearchParams(window.location.search);
+
+const id =params.get('id');
+const name = params.get('name');
+```

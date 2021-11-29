@@ -24,13 +24,12 @@ All patterns revolve around these 4 fundamental activities:
 
 The main .js file for each of your pages should follow this basic format:
 
-- W: We always just . . .
+- W: We always just
 - I: `import`
 - G: Grab DOM elements
 - G: with `document.getElementById()`
 - L: `let` state
-- E: listen for events
-
+- E: and listen for events
 
 ## 2) Event handler 
     1) add click listener to a dom element

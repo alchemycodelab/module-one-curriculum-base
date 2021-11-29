@@ -52,6 +52,24 @@ function checkError({ data, error }) {
 
 ## Getting the user_id for the logged in user
 
+```js
+const userId = client.auth.user().id, 
+```
+
 ## Async/Await Creating items in supabase
+
+[Supabase Select Docs](https://supabase.com/docs/reference/javascript/insert)
+
+```js
+
+const newDog = await client
+    .from('dogs')
+    .insert({ 
+        name: 'spot', 
+        user_id: client.auth.user().id, 
+    })
+    .single();
+
+```
 
 ## Fetching with .match({ user_id: client.auth.session().user.id })
