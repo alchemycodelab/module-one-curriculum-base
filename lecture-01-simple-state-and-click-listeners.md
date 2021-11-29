@@ -5,9 +5,9 @@
 - W: We always just
 - I: `import`
 - G: Grab DOM elements
-- G: with `document.getElementById()`
+- G: with `getElementById()`
 - L: `let` state
-- E: and listen for events
+- E: and describe our events
 
 ## 'Grabbing' elements with document.querySelector() 
 
