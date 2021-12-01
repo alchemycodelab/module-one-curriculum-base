@@ -5,7 +5,7 @@
 
 [City Builder](https://github.com/alchemycodelab/city-builder)
 
-## Buggy Deliverables 🐛
+## Bug Hunts 🐛
 
 [Bug Hunt: Hide and Seek](https://github.com/alchemycodelab/bug-hunt-web-01-hide-and-seek/)
 
@@ -26,7 +26,7 @@
 [Bug Hunt: Supabase Fuzzy Bunny Organizer](https://github.com/alchemycodelab/bug-hunt-web-01-fuzzy-bunny-organizer)
 
 
-## Batteries-Included Deliverables ⚡
+## Batteries-Included Exercises ⚡
 
 [Batteries-Included Hide and Seek](https://github.com/alchemycodelab/batteries-included-web-01-hide-and-seek)
 
