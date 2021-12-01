@@ -27,9 +27,9 @@ The main .js file for each of your pages should follow this basic format:
 - W: We always just
 - I: `import`
 - G: Grab DOM elements
-- G: with `document.getElementById()`
+- G: with `getElementById()`
 - L: `let` state
-- E: and listen for events
+- E: and describe our events
 
 ## 2) Event handler 
     1) add click listener to a dom element

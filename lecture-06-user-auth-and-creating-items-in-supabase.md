@@ -71,5 +71,3 @@ const newDog = await client
     .single();
 
 ```
-
-## Fetching with .match({ user_id: client.auth.session().user.id })

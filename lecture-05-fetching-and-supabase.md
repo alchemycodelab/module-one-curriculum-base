@@ -17,10 +17,12 @@ const client = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
 [Supabase Select Docs](https://supabase.com/docs/reference/javascript/select)
 
 ```js
+// to get all dogs
 const allDogs = await client
     .from('dogs')
     .select();
 
+// to get a single dog
 const dogNumberSeven = await client
     .from('dogs')
     .select()
