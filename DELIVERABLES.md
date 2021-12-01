@@ -7,56 +7,56 @@
 
 ## Buggy Deliverables 🐛
 
-[Bug Hunt: Hide and Seek](https://github.com/alchemycodelab/bug-hunt-js-hide-and-seek/)
+[Bug Hunt: Hide and Seek](https://github.com/alchemycodelab/bug-hunt-web-01-hide-and-seek/)
 
-[Bug Hunt: Character Designer](https://github.com/alchemycodelab/bug-hunt-js-character-designer)
+[Bug Hunt: Character Designer](https://github.com/alchemycodelab/bug-hunt-web-01-character-designer)
 
-[Bug Hunt: Soccer Scorekeeper](https://github.com/alchemycodelab/bug-hunt-js-soccer-scorekeeper)
+[Bug Hunt: Soccer Scorekeeper](https://github.com/alchemycodelab/bug-hunt-web-01-soccer-scorekeeper)
 
-[Bug Hunt: Mushroom Festival](https://github.com/alchemycodelab/bug-hunt-js-mushroom-festival)
+[Bug Hunt: Mushroom Festival](https://github.com/alchemycodelab/bug-hunt-web-01-mushroom-festival)
 
-[Bug Hunt: Supabase Adopt a Dog](https://github.com/alchemycodelab/bug-hunt-js-adopt-a-dog)
+[Bug Hunt: Supabase Adopt a Dog](https://github.com/alchemycodelab/bug-hunt-web-01-adopt-a-dog)
 
-[Bug Hunt: Supabase Soccer Scorekeeper](https://github.com/alchemycodelab/bug-hunt-js-soccer-scorekeeper-supabase)
+[Bug Hunt: Supabase Soccer Scorekeeper](https://github.com/alchemycodelab/bug-hunt-web-01-soccer-scorekeeper-supabase)
 
-[Bug Hunt: Supabase Character Designer](https://github.com/alchemycodelab/bug-hunt-js-character-designer-supabase)
+[Bug Hunt: Supabase Character Designer](https://github.com/alchemycodelab/bug-hunt-web-01-character-designer-supabase)
 
-[Bug Hunt: Supabase Todo App](https://github.com/alchemycodelab/bug-hunt-js-todo-supabase)
+[Bug Hunt: Supabase Todo App](https://github.com/alchemycodelab/bug-hunt-web-01-todo-supabase)
 
-[Bug Hunt: Supabase Fuzzy Bunny Organizer](https://github.com/alchemycodelab/bug-hunt-js-fuzzy-bunny-organizer)
+[Bug Hunt: Supabase Fuzzy Bunny Organizer](https://github.com/alchemycodelab/bug-hunt-web-01-fuzzy-bunny-organizer)
 
 
 ## Batteries-Included Deliverables ⚡
 
-[Batteries-Included Hide and Seek](https://github.com/alchemycodelab/batteries-included-js-hide-and-seek)
+[Batteries-Included Hide and Seek](https://github.com/alchemycodelab/batteries-included-web-01-hide-and-seek)
 
-[Batteries-Included Character Designer](https://github.com/alchemycodelab/batteries-included-js-character-designer)
+[Batteries-Included Character Designer](https://github.com/alchemycodelab/batteries-included-web-01-character-designer)
 
-[Batteries-Included Soccer Scorekeeper](https://github.com/alchemycodelab/batteries-included-js-soccer-scorekeeper)
+[Batteries-Included Soccer Scorekeeper](https://github.com/alchemycodelab/batteries-included-web-01-soccer-scorekeeper)
 
-[Batteries-Included Mushroom Festival](https://github.com/alchemycodelab/batteries-included-js-mushroom-festival)
+[Batteries-Included Mushroom Festival](https://github.com/alchemycodelab/batteries-included-web-01-mushroom-festival)
 
-[Batteries-Included Supabase Adopt a Dog](https://github.com/alchemycodelab/batteries-included-js-adopt-a-dog)
+[Batteries-Included Supabase Adopt a Dog](https://github.com/alchemycodelab/batteries-included-web-01-adopt-a-dog)
 
-[Batteries-Included Supabase Soccer Scorekeeper](https://github.com/alchemycodelab/batteries-included-js-soccer-scorekeeper-supabase)
+[Batteries-Included Supabase Soccer Scorekeeper](https://github.com/alchemycodelab/batteries-included-web-01-soccer-scorekeeper-supabase)
 
-[Batteries-Included Supabase Character Designer](https://github.com/alchemycodelab/batteries-included-js-character-designer-supabase)
+[Batteries-Included Supabase Character Designer](https://github.com/alchemycodelab/batteries-included-web-01-character-designer-supabase)
 
-[Batteries-Included Supabase Todo App](https://github.com/alchemycodelab/batteries-included-js-todo-supabase)
+[Batteries-Included Supabase Todo App](https://github.com/alchemycodelab/batteries-included-web-01-todo-supabase)
 
-[Batteries-Included Supabase Fuzzy Bunny Organizer](https://github.com/alchemycodelab/batteries-included-js-fuzzy-bunny-organizer)
+[Batteries-Included Supabase Fuzzy Bunny Organizer](https://github.com/alchemycodelab/batteries-included-web-01-fuzzy-bunny-organizer)
 
 ## Code Challenges 🧠
 
-[Code Challenge: TDD](https://github.com/alchemycodelab/code-challenge-tdd)
+[Code Challenge: TDD](https://github.com/alchemycodelab/code-challenge-web-01-tdd)
 
-[Code Challenge: Display a List](https://github.com/alchemycodelab/display-a-list-practice)
+[Code Challenge: Display a List](https://github.com/alchemycodelab/display-a-list-practice-web-01)
 
 [Code Challenge: Async Display a List](https://github.com/alchemycodelab/async-display-a-list-practice)
 
-[Code Challenge: String and Array](https://github.com/alchemycodelab/code-challenge-string-and-array)
+[Code Challenge: String and Array](https://github.com/alchemycodelab/code-challenge-web-01-string-and-array)
 
-[Code Challenge: Munging](https://github.com/alchemycodelab/code-challenge-munge)
+[Code Challenge: Munging](https://github.com/alchemycodelab/code-challenge-web-01-munge)
 
 ## Live Sites 💻 
 
