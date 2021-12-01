@@ -48,13 +48,15 @@
 
 ## Code Challenges 🤔
 
-[TDD Code Challenge](https://github.com/alchemycodelab/code-challenge-tdd)
+[Code Challenge: TDD](https://github.com/alchemycodelab/code-challenge-tdd)
 
-[String and Array Code Challenge](https://github.com/alchemycodelab/code-challenge-string-and-array)
+[Code Challenge: Display a List](https://github.com/alchemycodelab/display-a-list-practice)
 
-[Display a List Challenge](https://github.com/alchemycodelab/display-a-list-practice)
+[Code Challenge: Async Display a List](https://github.com/alchemycodelab/async-display-a-list-practice)
 
-[Munging Code Challenge](https://github.com/alchemycodelab/code-challenge-munge)
+[Code Challenge: String and Array](https://github.com/alchemycodelab/code-challenge-string-and-array)
+
+[Code Challenge: Munging](https://github.com/alchemycodelab/code-challenge-munge)
 
 ## Live Sites 💻 
 
