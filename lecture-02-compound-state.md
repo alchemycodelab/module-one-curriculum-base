@@ -19,6 +19,29 @@ selectEl.addEventListener('change', () => {
 })
 ```
 
+## Scope
+
+Child scope can use parent scope.
+
+Parent scope __cannot__ use child scope.
+
+Think of it like Halloween candy: the child went and earned it, and is unlikely to want to share it with the parent.
+
+```js
+const parentThing = 7;
+
+addButton.addEventListener('click', () => {
+    const childThing = 2;
+
+    console.log('A child says: ', parentThing);
+    console.log('B child says: ', childThing);
+});
+
+// things defined inside a function are not accessible outside the function
+console.log('C parent says: ', parentThing);
+console.log('D parent says: ', childThing);
+```
+
 ## Arrays as state
 
 ```js

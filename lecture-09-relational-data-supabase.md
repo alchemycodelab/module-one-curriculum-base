@@ -70,7 +70,7 @@ The above supabase call will return the following data, `join`ed from the `shops
 ]
 ```
 
-- As usual, remember to use `.match({ user_id: client.auth.session().user.id })` for user-created entities, especially in the 'batteries-included'assignments.
+- As usual, remember to use `.match({ user_id: client.auth.session().user.id })` for user-created entities, especially in the 'half-baked'assignments.
 
 ## Matching within sub-queries
 
