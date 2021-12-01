@@ -95,6 +95,8 @@ function displayStats() {
     3) append each element to the dom
 
 ```js
+    pastGamesEl.textContent = '';
+    
     for (let game of pastGames) {
         const gameEl = renderGame(game);
 
@@ -102,7 +104,6 @@ function displayStats() {
         
         pastGamesEl.append(gameEl);
     }
-}
 ```
 
 ## 6) Update a list

@@ -1,4 +1,4 @@
-# Lecture 3 - Simple State and Event Listeners
+# Lecture 1 - Simple State and Event Listeners
 
 ## Wiggle
 
@@ -14,7 +14,7 @@
 ```js
 // these two statements are exactly the same
 const myDiv = document.getElementById('my-div');
-const myDiv = document.querySelectors('#my-div');
+const myDiv = document.querySelector('#my-div');
 ```
 
 - `document.querySelector()` can eat anything that css can eat.
@@ -44,7 +44,7 @@ const sum = add(5, 6);
 
 ```js
 // notice that this variable is defined _outside the function declaration_
-const coolDivFromHTML = document.querySelector('#my-divs)
+const coolDivFromHTML = document.querySelector('#my-divs')
 
 function mutateCoolDiv(words) {
     // 💥 impure function alert 💥
