@@ -7,23 +7,23 @@
 
 ## Buggy Deliverables 🐛
 
-[Buggy Hide and Seek](https://github.com/alchemycodelab/buggy-js-hide-and-seek/)
+[Bug Hunt: Hide and Seek](https://github.com/alchemycodelab/bug-hunt-js-hide-and-seek/)
 
-[Buggy Character Designer](https://github.com/alchemycodelab/buggy-js-character-designer)
+[Bug Hunt: Character Designer](https://github.com/alchemycodelab/bug-hunt-js-character-designer)
 
-[Buggy Soccer Scorekeeper](https://github.com/alchemycodelab/buggy-js-soccer-scorekeeper)
+[Bug Hunt: Soccer Scorekeeper](https://github.com/alchemycodelab/bug-hunt-js-soccer-scorekeeper)
 
-[Buggy Mushroom Festival](https://github.com/alchemycodelab/buggy-js-mushroom-festival)
+[Bug Hunt: Mushroom Festival](https://github.com/alchemycodelab/bug-hunt-js-mushroom-festival)
 
-[Buggy Supabase Adopt a Dog](https://github.com/alchemycodelab/buggy-js-adopt-a-dog)
+[Bug Hunt: Supabase Adopt a Dog](https://github.com/alchemycodelab/bug-hunt-js-adopt-a-dog)
 
-[Buggy Supabase Soccer Scorekeeper](https://github.com/alchemycodelab/buggy-js-soccer-scorekeeper-supabase)
+[Bug Hunt: Supabase Soccer Scorekeeper](https://github.com/alchemycodelab/bug-hunt-js-soccer-scorekeeper-supabase)
 
-[Buggy Supabase Character Designer](https://github.com/alchemycodelab/buggy-js-character-designer-supabase)
+[Bug Hunt: Supabase Character Designer](https://github.com/alchemycodelab/bug-hunt-js-character-designer-supabase)
 
-[Buggy Supabase Todo App](https://github.com/alchemycodelab/buggy-js-todo-supabase)
+[Bug Hunt: Supabase Todo App](https://github.com/alchemycodelab/bug-hunt-js-todo-supabase)
 
-[Buggy Supabase Fuzzy Bunny Organizer](https://github.com/alchemycodelab/buggy-js-fuzzy-bunny-organizer)
+[Bug Hunt: Supabase Fuzzy Bunny Organizer](https://github.com/alchemycodelab/bug-hunt-js-fuzzy-bunny-organizer)
 
 
 ## Batteries-Included Deliverables ⚡
