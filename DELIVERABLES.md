@@ -1,11 +1,11 @@
 
-## Demos
+## 🎯 From Scratch Demos
 
 [Cup Game](https://github.com/alchemycodelab/demo-cup-game-november/)
 
 [City Builder](https://github.com/alchemycodelab/city-builder)
 
-## Buggy Deliverables
+## 🐛 Buggy Deliverables
 
 [Buggy Hide and Seek](https://github.com/alchemycodelab/buggy-js-hide-and-seek/)
 
@@ -26,7 +26,7 @@
 [Buggy Supabase Fuzzy Bunny Organizer](https://github.com/alchemycodelab/buggy-js-fuzzy-bunny-organizer)
 
 
-## Batteries Included Deliverables
+## ⚡ Batteries-Included Deliverables
 
 [Batteries-Included Hide and Seek](https://github.com/alchemycodelab/batteries-included-js-hide-and-seek)
 
@@ -46,7 +46,7 @@
 
 [Batteries-Included Supabase Fuzzy Bunny Organizer](https://github.com/alchemycodelab/batteries-included-js-fuzzy-bunny-organizer)
 
-## Code Challenges
+## 🤔 Code Challenges
 
 [TDD Code Challenge](https://github.com/alchemycodelab/code-challenge-tdd)
 
@@ -56,7 +56,7 @@
 
 [Munging Code Challenge](https://github.com/alchemycodelab/code-challenge-munge)
 
-## Live Sites
+## 💻 Live Sites
 
 [Hide and Seek](https://alchemycodelab.github.io/js-hide-and-seek/)
 
