@@ -1,3 +1,10 @@
+
+## Demos
+
+[Cup Game](https://github.com/alchemycodelab/demo-cup-game-november/)
+
+[City Builder](https://github.com/alchemycodelab/city-builder)
+
 ## Buggy Deliverables
 
 [Buggy Hide and Seek](https://github.com/alchemycodelab/buggy-js-hide-and-seek/)
@@ -48,12 +55,6 @@
 [Display a List Challenge](https://github.com/alchemycodelab/display-a-list-practice)
 
 [Munging Code Challenge](https://github.com/alchemycodelab/code-challenge-munge)
-
-## Demos
-
-[Cup Game](https://github.com/alchemycodelab/demo-cup-game-november/)
-
-[City Builder](https://github.com/alchemycodelab/city-builder)
 
 ## Live Sites
 
