@@ -46,7 +46,7 @@
 
 [Batteries-Included Supabase Fuzzy Bunny Organizer](https://github.com/alchemycodelab/batteries-included-js-fuzzy-bunny-organizer)
 
-## Code Challenges 🤔
+## Code Challenges 🧠
 
 [Code Challenge: TDD](https://github.com/alchemycodelab/code-challenge-tdd)
 
