@@ -26,7 +26,7 @@
 [Bug Hunt: Supabase Fuzzy Bunny Organizer](https://github.com/alchemycodelab/bug-hunt-web-01-fuzzy-bunny-organizer)
 
 
-## Half Baked Exercises ⚡
+## Half Baked Exercises 🍞
 
 [Half Baked Hide and Seek](https://github.com/alchemycodelab/half-baked-web-01-hide-and-seek)
 
@@ -60,23 +60,23 @@
 
 ## Live Sites 💻 
 
-[Hide and Seek](https://alchemycodelab.github.io/js-hide-and-seek/)
+[Hide and Seek](https://alchemycodelab.github.io/web-01-hide-and-seek/)
 
-[Character Designer](https://alchemycodelab.github.io/js-character-designer/)
+[Character Designer](https://alchemycodelab.github.io/web-01-character-designer/)
 
-[Soccer Scorekeeepr](https://alchemycodelab.github.io/js-soccer-scorekeeper/)
+[Soccer Scorekeeepr](https://alchemycodelab.github.io/web-01-soccer-scorekeeper/)
 
-[Mushroom Festival](https://alchemycodelab.github.io/js-mushroom-festival/)
+[Mushroom Festival](https://alchemycodelab.github.io/web-01-mushroom-festival/)
 
-[Adopt-a-Dog](https://alchemycodelab.github.io/js-adopt-a-dog/)
+[Adopt-a-Dog](https://alchemycodelab.github.io/web-01-adopt-a-dog/)
 
-[Soccer Scorekeeper Supabase](https://alchemycodelab.github.io/js-soccer-scorekeeper-supabase/)
+[Soccer Scorekeeper Supabase](https://alchemycodelab.github.io/web-01-soccer-scorekeeper-supabase/)
 
 [Character Designer Supabase](https://fantastic-carnival-aef94da0.pages.github.io/)
 
-[Todos Supabase](https://alchemycodelab.github.io/js-todo-supabase/)
+[Todos Supabase](https://alchemycodelab.github.io/web-01-todo-supabase/)
 
-[Fuzzy Bunny Organizer](https://alchemycodelab.github.io/js-fuzzy-bunny-organizer/)
+[Fuzzy Bunny Organizer](https://alchemycodelab.github.io/web-01-fuzzy-bunny-organizer/)
 
 [Yawp Restaurant Reviewer](https://upgraded-winner-147551f5.pages.github.io/)
 
