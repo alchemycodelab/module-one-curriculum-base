@@ -26,25 +26,25 @@
 [Bug Hunt: Supabase Fuzzy Bunny Organizer](https://github.com/alchemycodelab/bug-hunt-web-01-fuzzy-bunny-organizer)
 
 
-## Batteries-Included Exercises ⚡
+## Half Baked Exercises ⚡
 
-[Batteries-Included Hide and Seek](https://github.com/alchemycodelab/batteries-included-web-01-hide-and-seek)
+[Half Baked Hide and Seek](https://github.com/alchemycodelab/half-baked-web-01-hide-and-seek)
 
-[Batteries-Included Character Designer](https://github.com/alchemycodelab/batteries-included-web-01-character-designer)
+[Half Baked Character Designer](https://github.com/alchemycodelab/half-baked-web-01-character-designer)
 
-[Batteries-Included Soccer Scorekeeper](https://github.com/alchemycodelab/batteries-included-web-01-soccer-scorekeeper)
+[Half Baked Soccer Scorekeeper](https://github.com/alchemycodelab/half-baked-web-01-soccer-scorekeeper)
 
-[Batteries-Included Mushroom Festival](https://github.com/alchemycodelab/batteries-included-web-01-mushroom-festival)
+[Half Baked Mushroom Festival](https://github.com/alchemycodelab/half-baked-web-01-mushroom-festival)
 
-[Batteries-Included Supabase Adopt a Dog](https://github.com/alchemycodelab/batteries-included-web-01-adopt-a-dog)
+[Half Baked Supabase Adopt a Dog](https://github.com/alchemycodelab/half-baked-web-01-adopt-a-dog)
 
-[Batteries-Included Supabase Soccer Scorekeeper](https://github.com/alchemycodelab/batteries-included-web-01-soccer-scorekeeper-supabase)
+[Half Baked Supabase Soccer Scorekeeper](https://github.com/alchemycodelab/half-baked-web-01-soccer-scorekeeper-supabase)
 
-[Batteries-Included Supabase Character Designer](https://github.com/alchemycodelab/batteries-included-web-01-character-designer-supabase)
+[Half Baked Supabase Character Designer](https://github.com/alchemycodelab/half-baked-web-01-character-designer-supabase)
 
-[Batteries-Included Supabase Todo App](https://github.com/alchemycodelab/batteries-included-web-01-todo-supabase)
+[Half Baked Supabase Todo App](https://github.com/alchemycodelab/half-baked-web-01-todo-supabase)
 
-[Batteries-Included Supabase Fuzzy Bunny Organizer](https://github.com/alchemycodelab/batteries-included-web-01-fuzzy-bunny-organizer)
+[Half Baked Supabase Fuzzy Bunny Organizer](https://github.com/alchemycodelab/half-baked-web-01-fuzzy-bunny-organizer)
 
 ## Code Challenges 🧠
 
