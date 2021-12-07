@@ -3,7 +3,7 @@
 
 ## Object maker
 
-Resist the temptation to define an object in global scope and mutate it throughout your app. It causes so many bugs! 
+I know it _seems_ like DRY code, but please: **Resist the temptation to define an object in global scope and mutate it throughout your app.** It causes so many bugs! 
 
 In fact, just try never to mutate an object. Whenever possible, create a new one.
 
