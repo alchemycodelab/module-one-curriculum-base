@@ -3,7 +3,11 @@
 
 ## Object maker
 
-Resist the temptation to define an object in global scope and mutate it throughout your app. It causes so many bugs! Instead, just use a function like this to get your state as an object:
+Resist the temptation to define an object in global scope and mutate it throughout your app. It causes so many bugs! 
+
+In fact, just try never to mutate an object. Whenever possible, create a new one.
+
+As a good habit, consider using a function like this to get your state as an object:
 
 ```js
 function createGameObject() {
