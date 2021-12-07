@@ -1,6 +1,21 @@
 
 # Lecture 3 - Lists of Things and Forms
 
+## Object maker
+
+Resist the temptation to define an object in global scope and mutate it throughout your app. It causes so many bugs! Instead, just use a function like this to get your state as an object:
+
+```js
+function createGameObject() {
+    return {
+        name1: name1,
+        score1: score1,
+        name2: name2,
+        score2: score2
+    };
+}
+```
+
 ## Pure Functions that return DOM elements
 
 - Consider this HTML.
