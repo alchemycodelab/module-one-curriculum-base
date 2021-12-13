@@ -1,6 +1,9 @@
 
 # Lecture 5 - Fetching and Supabase
 
+## Multiple Pages
+
+An `about` page is just a sparate folder named 'about' with an `index.html`
 ## Supabase dashboard
 
 ## fetch-utils.js
