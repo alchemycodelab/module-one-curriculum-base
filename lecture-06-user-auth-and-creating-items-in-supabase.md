@@ -50,11 +50,18 @@ function checkError({ data, error }) {
 
 ```
 
-## Getting the user_id for the logged in user
+## Row Level Security
 
-```js
-const userId = client.auth.user().id, 
-```
+Imagine a todo app. When you log in, you only see your todos, and nobody elses. RLS is the tool that lets you do this in supabase.
+
+RLS lets us, among other things:
+1) allow all users to read all rows, but only 'logged in' users can create, update, or delete rows
+1) add a user_id automatically to each row on its creation
+1) restrict read access so that only the creator of a row (matching user_id) can read it. This way, users cannot step on each others' toes or read each others' messages, etc.
+
+![](./assets/supa-rls-1.png)
+![](./assets/supa-rls-2.png)
+
 
 ## Async/Await Creating items in supabase
 
