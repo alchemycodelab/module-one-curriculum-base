@@ -26,21 +26,21 @@ export async function redirectIfLoggedIn() {
 export async function signupUser(email, password){
     const response = await client.auth.signUp({ email, password });
     
-    return checkError(response);
+    return response.user;
 }
 
 // signs an existing user in and puts an auth token in local storage in the browser
 export async function signInUser(email, password){
     const response = await client.auth.signIn({ email, password });
 
-    return checkError(response);
+    return response.user;
 }
 
 // removes the token from local storage and redirects the user home
 export async function logout() {
     await client.auth.signOut();
 
-    return window.location.href = '/';
+    return window.location.href = '../';
 }
 
 // alerts the user if there is an error with their supabase call
