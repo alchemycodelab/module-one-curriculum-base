@@ -5,6 +5,15 @@
 
 [City Builder](https://github.com/alchemycodelab/city-builder)
 
+
+[Poll Tracker](https://github.com/alchemycodelab/poll-tracker)
+
+[Goblin Fighter](https://github.com/alchemycodelab/goblin-fighter)
+
+[<Thing> List Supabase](https://github.com/alchemycodelab/plant-list)
+
+[Poll Tracker Supabase](https://github.com/alchemycodelab/poll-tracker-supabase-nov2021)
+
 ## Bug Hunts 🐛
 
 [Bug Hunt: Hide and Seek](https://github.com/alchemycodelab/bug-hunt-web-01-hide-and-seek/)
