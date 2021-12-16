@@ -62,6 +62,17 @@ RLS lets us, among other things:
 ![](./assets/supa-rls-1.png)
 ![](./assets/supa-rls-2.png)
 
+## The Email gotcha!
+
+Note that by default, supabase auth signup wants you to use a REAL eamil address and verify it, like a real app! Fake emails won't work because you cannot verify them.
+
+To disable this behavior, click on the people icon in supabase, then go to settings, and disable the above toggles
+
+This way, you can now use fake emails
+
+![](./assets/users-1.png)
+![](./assets/users-2.png)
+
 
 ## Async/Await Creating items in supabase
 
