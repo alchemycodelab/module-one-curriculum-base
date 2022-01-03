@@ -11,4 +11,4 @@ const response = await client
     .match({ user_id: client.auth.session().user.id });
 ```
 
-Remember to always use `.match({ user_id: client.auth.session().user.id })`  for user-created entities, especially in the 'half-baked'assignments.
+Remember to always use `.match({ user_id: client.auth.session().user.id })`  for user-created entities, especially in the 'half-baked' assignments.
