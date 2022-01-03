@@ -13,6 +13,8 @@
 [<Thing> List Supabase](https://github.com/alchemycodelab/plant-list)
 
 [Poll Tracker Supabase](https://github.com/alchemycodelab/poll-tracker-supabase-nov2021)
+  
+[City Builder Supabase](https://github.com/alchemycodelab/city-builder-supabase-nov2021)
 
 ## Bug Hunts 🐛
 
