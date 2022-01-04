@@ -1,7 +1,7 @@
 
 ## From Scratch Demos 🎯
 
-[Shell Game](https://github.com/alchemycodelab/shell-game-november/)
+[Shell Game](https://github.com/alchemycodelab/shell-game/)
 
 [City Builder](https://github.com/alchemycodelab/city-builder)
 
