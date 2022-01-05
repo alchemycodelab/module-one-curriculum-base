@@ -5,7 +5,6 @@
 
 [City Builder](https://github.com/alchemycodelab/city-builder)
 
-
 [Poll Tracker](https://github.com/alchemycodelab/poll-tracker)
 
 [Goblin Fighter](https://github.com/alchemycodelab/goblin-fighter)
@@ -15,6 +14,8 @@
 [Poll Tracker Supabase](https://github.com/alchemycodelab/poll-tracker-supabase-nov2021)
   
 [City Builder Supabase](https://github.com/alchemycodelab/city-builder-supabase-nov2021)
+
+[Shopping List Supabase](https://github.com/alchemycodelab/shopping-list-nov2021)
 
 ## Bug Hunts 🐛
 
