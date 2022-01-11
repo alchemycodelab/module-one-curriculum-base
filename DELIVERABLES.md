@@ -17,6 +17,8 @@
 
 [Shopping List Supabase](https://github.com/alchemycodelab/shopping-list-nov2021)
 
+[Workshop Organizer Supabase](https://github.com/alchemycodelab/workshop-organizer/)
+
 ## Bug Hunts 🐛
 
 [Bug Hunt: Hide and Seek](https://github.com/alchemycodelab/bug-hunt-web-01-hide-and-seek/)
