@@ -31,20 +31,20 @@ Generally speaking, those grades will be the same. These grades will usually be 
 
 # Group dynamics
 
-## Collaborating Contributors vs Battling Experts
+### Collaborating Contributors vs Battling Experts
 - Group dynamics are probably the most challenging aspect of a group project. Every unsuccessful project I can think of started with unsuccessful team dynamics. 
 -Given the choice, consider which group most you would rather work with:
     1) a group of beginning coders who are good listeners, emapthetic and entusiastic teammates with "strong opinions, loosely held" and who want to have fun building something and learning.
     2) a group of programming experts who are committed to getting their way, obsessed with outcomes, and oblivious to the way their attitude affects their team
 - Group 2 is incredibly painful. You will be walking on eggshells all week and we can feel the tension immediately when we visit. This is a miserable week emotionally, and ironically, the project quality will suffer compared to Group 1 because of group paralysis. 
 
-## Expectations and Boundaries
+### Expectations and Boundaries
 - When selecting a group, be curious about the amount of 'extra' work you're wanting to put into the project. Obviously, you're required to work on the project from 9-6 during sprint week, but some groups work outside these hours as well. Are you in a group like this? Do you _want_ to be in such a group? Set these expectations ahead of time.
 - No 'cowboy coding'
     - "If you want to go fast, go alone; if you want to go far, go together."
     - "Slow is smooth, smooth is fast"
 
-## Common conflicts
+### Common conflicts
 - Look at yourself and your group and be conscious about how some people have historically been excluded from the benefits of tech work--specificially, women, people of color, and LGBTQ+ people. 
 - Ask as a group: what are you going to do to make sure you don't reproduce that exclusion in your own sprint week group?
 - Specifically, the most common complaint we hear: womens' opinions and contributions are ignored, devalued, or disregarded by men in their group.
