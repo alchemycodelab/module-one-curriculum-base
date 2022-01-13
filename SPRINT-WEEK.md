@@ -2,7 +2,7 @@
 
 Your project should have the following features:
 
-- Deployed on gtihub pages
+- Deployed on github pages
 - Thoughtful CSS
 - Some group collaboration tool to organize features like Miro. (You'll link to this tool in your Canvas submission).
 - Supabase Auth and protected routes.
