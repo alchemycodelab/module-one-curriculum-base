@@ -49,7 +49,7 @@ Generally speaking, those grades will be the same. These grades will usually be 
 - Ask as a group: what are you going to do to make sure you don't reproduce that exclusion in your own sprint week group?
 - Specifically, the most common complaint we hear: womens' opinions and contributions are ignored, devalued, or disregarded by men in their group.
     - Note that men in this kind of group _don't always notice that there's even a problem_. After all, if you're feeling this way, it is difficult and risky to bring your feelings to your group. It is often easier to just swallow your feelings and endure an unhappy week.
-    - This dynamic creates bad feelings (for all parties) that can last for the rest of the cohort.
+    - This dynamic creates bad feelings (for all parties) that can last for the rest of the cohort. You'll want to be able to depend on your cohort-mates for easy job referrals throughout your career: don't burn this bridge.
 - One strategy for preventing this kind of dynamic is to plan daily (maybe twice-daily) check-ins where you do not even talk about code. It might be worthwhile to set a timer and give everyone a minimum of 1 minute uninterrupted time to speak. This is a good idea even if everybody chooses fill that time with silence.
 - What if during a check-in, somebody (specifically, a person from a marginalized group) remarks that they are feeling disregarded or devaluded as a team member? 
     1) Resist defensiveness. 
