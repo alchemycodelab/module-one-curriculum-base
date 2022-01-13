@@ -31,7 +31,7 @@ Here's how you can protect your `main` branch from unruly 'cowboy coding'. If yo
 - Repeat the following exercise until everybody has participated at least once, either as Coder A or Coder B.
 
 ### How to create a merge conflict on purpose:
-0) Make a repo called "merge-conflict-pracrice". Add collaborators.
+0) Make a repo called "merge-conflict-practice". Add collaborators.
 1) Everybody start by cloning down that repo. Do this at the beginning or you won't get a merge conflict.
 2) Coder A makes a `new` branch.
     - Coder A makes a change and a commit on line 1 of `app.js` in their `new` branch.
