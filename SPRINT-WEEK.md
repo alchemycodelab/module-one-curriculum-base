@@ -8,7 +8,7 @@ Your project should have the following features:
 - Supabase Auth and protected routes.
 - There should be some 'List/Detail' element to your app.
     - The user should be presented with a list fetched from supabase
-    - When the user clicks on the list item, they are navigated to that item's detail page, using query parameters
+    - When the user clicks on the list item, they are navigated to that item's detail page, using query parameters (fetch that item from supabase on load)
 - A "Built By" page detailing who worked on the project
 - One of the following:
     - At least two tables in supabase (not including a user's table)
