@@ -4,7 +4,7 @@ Your project should have the following features:
 
 - Deployed on gtihub pages
 - Thoughtful CSS
-- Some group collaboration tool to organize features like Miro. You'll like to this tool in Sprint Week Project submission.
+- Some group collaboration tool to organize features like Miro. (You'll link to this tool in your Canvas submission).
 - Supabase Auth and protected routes.
 - There should be some 'List/Detail' element to your app.
     - The user should be presented with a list fetched from supabase
