@@ -33,7 +33,7 @@ Generally speaking, those grades will be the same. These grades will usually be 
 
 ### Collaborating Contributors vs Battling Experts
 - Group dynamics are probably the most challenging aspect of a group project. Every unsuccessful project I can think of started with unsuccessful team dynamics. 
--Given the choice, consider which group most you would rather work with:
+- Given the choice, consider which group most you would rather work with:
     1) a group of beginning coders who are good listeners, emapthetic and entusiastic teammates with "strong opinions, loosely held" and who want to have fun building something and learning.
     2) a group of programming experts who are committed to getting their way, obsessed with outcomes, and oblivious to the way their attitude affects their team
 - Group 2 is incredibly painful. You will be walking on eggshells all week and we can feel the tension immediately when we visit. This is a miserable week emotionally, and ironically, the project quality will suffer compared to Group 1 because of group paralysis. 
