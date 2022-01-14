@@ -1,4 +1,4 @@
-# Lecture 8 - Arrays and Complex Updating in Supabase
+# Lecture 7 - Arrays and Complex Updating in Supabase
 
 ## Async/Await and Updating
 

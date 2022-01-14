@@ -1,4 +1,4 @@
-# Lecture 10 - Complex Relational Data
+# Lecture 9 - Complex Relational Data
 
 ## Filters in supabase
 

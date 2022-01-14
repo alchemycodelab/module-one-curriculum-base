@@ -1,4 +1,4 @@
-# Lecture 9 - Relational Data in Supabase
+# Lecture 8 - Relational Data in Supabase
 
 ## One-to-many relationships
 
