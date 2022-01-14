@@ -26,6 +26,10 @@
 ## [09 - Supabase Fuzzy Bunny Organizer](https://github.com/alchemycodelab/half-baked-js-fuzzy-bunny-organizer)
 [![](./assets/fuzzy-bunnies.png)](https://github.com/alchemycodelab/half-baked-js-fuzzy-bunny-organizer)
 
-## [10 - Supabase Yawp Restaruant Reviewer](https://github.com/alchemycodelab/yawp-vanilla-js)
+## [10 - Supabase Messenger App](https://github.com/alchemycodelab/half-baked-web-01-messenger-app/)
+![image](https://user-images.githubusercontent.com/16160135/149590407-3fff640f-64aa-4823-9852-271a88e906c7.png)
+
+## [* - Supabase Yawp Restaruant Reviewer](https://github.com/alchemycodelab/yawp-vanilla-js)
 [![](./assets/yawp-search.png)](https://github.com/alchemycodelab/yawp-vanilla-js)
 [![](./assets/yawp-detail.png)](https://github.com/alchemycodelab/yawp-vanilla-js)
+
