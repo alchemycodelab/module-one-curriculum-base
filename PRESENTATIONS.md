@@ -55,4 +55,5 @@ Shoot for 20 minutes per team.
   - What was harder than you thought it would be?
   - What was easier than you though it would be?
 - "We chose focus our efforts elsewhere"
+- You can ask for clarification
 - No snowing--be direct and concise! It's okay not to know the answer :)
