@@ -13,10 +13,11 @@ Shoot for 20 minutes per team.
 ### Intros (~1 minutes)
 - Each teammate says their name and hi
 - Perhaps everybody delivers some domain specific tidbit to set the tone.
-  - If it's a cooking app, maybe tell the audience your favorite recipe. If it's a chess app, maybe tell the audience a chess factoid.
-- Traditionally at Alchemy people say 'and I'm a software developer' or whatever. 
-    - Not sure if that's a great idea since, like, it feels weird when everybody says the same thing, 
-    - but it tends to be what everybody does ¯\_(ツ)_/¯
+  - If it's a cooking app, maybe tell the audience your favorite recipe. 
+  - If it's a chess app, maybe tell the audience a chess history factoid.
+- Traditionally at Alchemy people say 'and I'm a software engineer' or whatever. 
+    - Not sure that's a great idea since, like, it feels weird when everybody says the same thing, 
+    - Buuuut it tends to be what everybody does, so maybe just do it? ¯\_(ツ)_/¯
 
 ### Product talk (~5 minutes)
 - Typically, a single team member speaks during this entire section. A second team member screen shares and drives through the app.
@@ -34,9 +35,9 @@ Shoot for 20 minutes per team.
    - Nobody wants to hear you read your `for` loop out loud.
 - Keep one driver throughout. However, every member of the group will speak, one by one.
 - Each team member selects one feature, one file, or one interesting function and presents on it.
-  - Briefly remind the audience how the feature/functionality you're describing looks in the app.
+  - (Optional) In the browser, briefly remind the audience how the feature/functionality you're describing looks in the app.
   - Show the code and describe in general terms why it's interesting.
-  - What problems did you run into?
+  - What interesting problems did you run into?
   - What did you learn?
   - What advice do you have for anybody else facing this task?
 
@@ -51,5 +52,7 @@ Shoot for 20 minutes per team.
   - If you had one more week, what would you have added?
   - What was the most interesting bug you ran into?
   - What was your favorite part about this week?
+  - What was harder than you thought it would be?
+  - What was easier than you though it would be?
 - "We chose focus our efforts elsewhere"
-- No snowing.
+- No snowing--be direct and concise! It's okay not to know the answer :)
