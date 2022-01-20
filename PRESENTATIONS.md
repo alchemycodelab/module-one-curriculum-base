@@ -4,7 +4,8 @@ Shoot for 20 minutes per team.
 
 ### General notes
 - Be positive and entusiastic. 
-- You __are not__ here to showcase how smart you are. I mean, a little, but just be careful.
+- You __are not__ here to showcase how smart you are. 
+  - I mean, sure, a little, but just be careful.
 - You __are__ here to show to prospective employers _how cool it would be to have you on a team_.
 - Give credit. Congratulate your teammates on their contributions.
 - Have a shared zoom background so that the audience knows who's on the team.
