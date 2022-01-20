@@ -3,18 +3,21 @@
 Shoot for 20 minutes per team.
 
 ### General notes
-- Be positive. 
-- You __are not__ here to showcase how smart you are. 
-- You __are__ here to show to prospective employers _how fun it is to have you on a team_.
+- Be positive and entusiastic. 
+- You __are not__ here to showcase how smart you are. I mean, a little, but just be careful.
+- You __are__ here to show to prospective employers _how cool it would be to have you on a team_.
 - Give credit. Congratulate your teammates on their contributions.
+- Have a shared zoom background so that the audience knows who's on the team.
 
-### Intros
+### Intros (~1 minutes)
 - Each teammate says their name and hi
 - Perhaps everybody delivers some domain specific tidbit to set the tone.
   - If it's a cooking app, maybe tell the audience your favorite recipe. If it's a chess app, maybe tell the audience a chess factoid.
-- Traditionally, you say 'and I'm a software developer' or whatever. Not sure if that's a great idea, but it's what everybody does ¯\_(ツ)_/¯
+- Traditionally at Alchemy people say 'and I'm a software developer' or whatever. 
+    - Not sure if that's a great idea since, like, it feels weird when everybody says the same thing, 
+    - but it tends to be what everybody does ¯\_(ツ)_/¯
 
-### Product talk (~6 minutes)
+### Product talk (~5 minutes)
 - Typically, a single team member speaks during this entire section. A second team member screen shares and drives through the app.
 - Non-technical. No code. Target audience is product managers and other stakeholders.
 - Show only deployed work. No localhost.
@@ -30,16 +33,19 @@ Shoot for 20 minutes per team.
    - Nobody wants to hear you read your `for` loop out loud.
 - Keep one driver throughout. However, every member of the group will speak, one by one.
 - Each team member selects one feature, one file, or one interesting function and presents on it.
-  - Briefly remind the audience how the feature looks in the app.
+  - Briefly remind the audience how the feature/functionality you're describing looks in the app.
   - Show the code and describe in general terms why it's interesting.
   - What problems did you run into?
   - What did you learn?
   - What advice do you have for anybody else facing this task?
 
-### Conclusion
-- What did you like about working with this group?
-- 
-### Questions (~3 minutes)
+### Conclusion (~2 minutes)
+- One by one, remind the audience who you are.
+- Maybe give the audience a quick: 
+  - What did you like about working with this group? 
+  - or What did you learn?
+
+### Questions (~2 minutes)
 - Prepare for:
   - If you had one more week, what would you have added?
   - What was the most interesting bug you ran into?
