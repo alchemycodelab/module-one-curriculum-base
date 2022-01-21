@@ -6,7 +6,7 @@ Shoot for 20 minutes per team.
 - Code freeze, then practice your demo.
   - Avoid last minute pushes
   - Practice on your deployed version, not localhost
-- Do not point out what you _didn't_ do. Only tell us what you _did_.
+- Do not point out what you _didn't_ finish. Only tell us what you _did_.
 - Be positive and entusiastic. 
 - You __are not__ here to showcase how smart you are. 
   - I mean, sure, a little, but just be careful.
