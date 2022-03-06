@@ -42,7 +42,7 @@
 
 ## Half Baked Exercises 🍞
 
-[Half-Baked Hide and Seek](https://github.com/alchemycodelab/half-baked-web-01-hide-and-seek)
+[Half-Baked Hide and Seek](https://github.com/alchemycodelab/half-baked-web-01-hide-seek)
 
 [Half-Baked Character Designer](https://github.com/alchemycodelab/half-baked-web-01-character-designer)
 
