@@ -1,5 +1,5 @@
-## [01 - Hide and Seek](https://github.com/alchemycodelab/half-baked-js-hide-and-seek)
-[![](./assets/hide-and-seek.png)](https://github.com/alchemycodelab/half-baked-js-hide-and-seek)
+## [01 - Hide and Seek](https://github.com/alchemycodelab/half-baked-web-01-hide-seek)
+[![](./assets/hide-and-seek.png)](https://github.com/alchemycodelab/half-baked-web-01-hide-seek)
 
 ## [02 - Character Designer](https://github.com/alchemycodelab/half-baked-js-character-designer)
 [![](./assets/character-designer.png)](https://github.com/alchemycodelab/half-baked-js-character-designer)
