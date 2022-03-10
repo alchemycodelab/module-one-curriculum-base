@@ -62,7 +62,7 @@
 
 ## Code Challenges 🧠
 
-[Code Challenge: TDD](https://github.com/alchemycodelab/code-challenge-web-01-tdd)
+[Code Challenge: TDD](https://github.com/alchemycodelab/code-challenge-tdd)
 
 [Code Challenge: Display a List](https://github.com/alchemycodelab/display-a-list-practice-web-01)
 
