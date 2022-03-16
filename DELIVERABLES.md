@@ -8,6 +8,7 @@
 [Poll Tracker](https://github.com/alchemycodelab/poll-tracker)
 
 [Goblin Fighter](https://github.com/alchemycodelab/goblin-fighter)
+[Alternative Goblin Fighter](https://github.com/alchemycodelab/old-goblin-fighter)
 
 [<Thing> List Supabase](https://github.com/alchemycodelab/plant-list)
 
