@@ -14,8 +14,6 @@
 
 [Poll Tracker Supabase](https://github.com/alchemycodelab/poll-tracker-supabase-nov2021)
   
-[City Builder Supabase](https://github.com/alchemycodelab/city-builder-supabase-nov2021)
-
 [Shopping List Supabase](https://github.com/alchemycodelab/shopping-list-nov2021)
 
 [Workshop Organizer Supabase](https://github.com/alchemycodelab/workshop-organizer/)
@@ -33,8 +31,6 @@
 [Bug Hunt: Supabase Adopt a Dog](https://github.com/alchemycodelab/bug-hunt-web-01-adopt-a-dog)
 
 [Bug Hunt: Supabase Soccer Scorekeeper](https://github.com/alchemycodelab/bug-hunt-web-01-soccer-scorekeeper-supabase)
-
-[Bug Hunt: Supabase Character Designer](https://github.com/alchemycodelab/bug-hunt-web-01-character-designer-supabase)
 
 [Bug Hunt: Supabase Todo App](https://github.com/alchemycodelab/bug-hunt-web-01-todo-supabase)
 
@@ -54,8 +50,6 @@
 [Half-Baked Supabase Adopt a Dog](https://github.com/alchemycodelab/half-baked-web-01-adopt-a-dog)
 
 [Half-Baked Supabase Soccer Scorekeeper](https://github.com/alchemycodelab/half-baked-web-01-soccer-scorekeeper-supabase)
-
-[Half-Baked Supabase Character Designer](https://github.com/alchemycodelab/half-baked-web-01-character-designer-supabase)
 
 [Half-Baked Supabase Todo App](https://github.com/alchemycodelab/half-baked-web-01-todo-supabase)
 
