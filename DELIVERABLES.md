@@ -18,24 +18,6 @@
 
 [Workshop Organizer Supabase](https://github.com/alchemycodelab/workshop-organizer/)
 
-## Bug Hunts 🐛
-
-[Bug Hunt: Hide and Seek](https://github.com/alchemycodelab/bug-hunt-web-01-hide-and-seek/)
-
-[Bug Hunt: Character Designer](https://github.com/alchemycodelab/bug-hunt-web-01-character-designer)
-
-[Bug Hunt: Soccer Scorekeeper](https://github.com/alchemycodelab/bug-hunt-web-01-soccer-scorekeeper)
-
-[Bug Hunt: Mushroom Festival](https://github.com/alchemycodelab/bug-hunt-web-01-mushroom-festival)
-
-[Bug Hunt: Supabase Adopt a Dog](https://github.com/alchemycodelab/bug-hunt-web-01-adopt-a-dog)
-
-[Bug Hunt: Supabase Soccer Scorekeeper](https://github.com/alchemycodelab/bug-hunt-web-01-soccer-scorekeeper-supabase)
-
-[Bug Hunt: Supabase Todo App](https://github.com/alchemycodelab/bug-hunt-web-01-todo-supabase)
-
-[Bug Hunt: Supabase Fuzzy Bunny Organizer](https://github.com/alchemycodelab/bug-hunt-web-01-fuzzy-bunny-organizer)
-
 
 ## Half Baked Exercises 🍞
 
@@ -55,6 +37,25 @@
 
 [Half-Baked Supabase Fuzzy Bunny Organizer](https://github.com/alchemycodelab/half-baked-web-01-fuzzy-bunny-organizer)
 
+  ## Bug Hunts 🐛
+
+[Bug Hunt: Hide and Seek](https://github.com/alchemycodelab/bug-hunt-web-01-hide-and-seek/)
+
+[Bug Hunt: Character Designer](https://github.com/alchemycodelab/bug-hunt-web-01-character-designer)
+
+[Bug Hunt: Soccer Scorekeeper](https://github.com/alchemycodelab/bug-hunt-web-01-soccer-scorekeeper)
+
+[Bug Hunt: Mushroom Festival](https://github.com/alchemycodelab/bug-hunt-web-01-mushroom-festival)
+
+[Bug Hunt: Supabase Adopt a Dog](https://github.com/alchemycodelab/bug-hunt-web-01-adopt-a-dog)
+
+[Bug Hunt: Supabase Soccer Scorekeeper](https://github.com/alchemycodelab/bug-hunt-web-01-soccer-scorekeeper-supabase)
+
+[Bug Hunt: Supabase Todo App](https://github.com/alchemycodelab/bug-hunt-web-01-todo-supabase)
+
+[Bug Hunt: Supabase Fuzzy Bunny Organizer](https://github.com/alchemycodelab/bug-hunt-web-01-fuzzy-bunny-organizer)
+
+  
 ## Code Challenges 🧠
 
 [Code Challenge: TDD](https://github.com/alchemycodelab/code-challenge-tdd)
