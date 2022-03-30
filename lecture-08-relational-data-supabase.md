@@ -1,6 +1,9 @@
 # Lecture 8 - Relational Data in Supabase
 
 ## One-to-many relationships
+<img width="950" alt="normalized-1" src="https://user-images.githubusercontent.com/16160135/160891769-4df98ef0-478a-4cf4-9daf-36fb6dbc11ce.png">
+
+<img width="1076" alt="normalized-2" src="https://user-images.githubusercontent.com/16160135/160891763-0a6fb958-6b2e-4abb-9fbf-eb60497fe628.png">
 
 ## Foreign-keys in the supabase dashboard
 
