@@ -1,4 +1,6 @@
 
+https://github.com/alchemycodelab/spotlight-product-planning-101
+
 # Group dynamics
 
 ### Collaborating Contributors vs Battling Experts
