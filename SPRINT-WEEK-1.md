@@ -48,7 +48,9 @@ Your project should have the following features:
         - One table should have a foreign key pointing to another table (like `participants` having a `workshop_id`)
     - Your app is a sufficiently complex "game" that stores game state in supabase.
 
-The two questions I ask while grading: 1) does the app work? and 2) how would I feel if somebody asked me to maintain this app (i.e., WTFs per minute)?
+The two questions I ask while grading: 
+1) does the app work? and 
+2) how would I feel if somebody asked me to maintain this app (i.e., WTFs per minute)?
 
 You will receive a grade as a group, as well as an individual grade.
 
