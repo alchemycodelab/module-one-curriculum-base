@@ -37,10 +37,15 @@ Here's how you can protect your `main` branch from unruly 'cowboy coding'. If yo
     - Coder A makes a change and a commit on line 1 of `app.js` in their `new` branch.
     - Coder A pushes their code and makes a PR from `new` to `main`.
     - this PR gets merged into main.
-3) Meanwhile, Coder B does NOT create a new branch.
-    - Coder B makes a change and a commit on line 1 of `app.js` in their `main` branch.
-    - Coder B pulls their code from `main`, which now has Coder A's commit.
-
+3) Meanwhile, Coder B creates create a new branch (i.e. `another-new` branch).
+    - Coder B makes a change and a commit on line 1 of `app.js` in their `main` branch. This is the same line as Coder A.
+    - Coder B pushes their code and makes a PR from `another-new` to `main`.
+    - Coder B makes a pull request to main
+    - Notice the PR tells you there is a conflict!
+    - Coder B pulls the freshest code from `main`, which now has Coder A's commit: `git pull origin main`
+    - Coder B resolves the merge conflict, then ACP to their `another-new` branch.
+    - Notice the PR tells you you can merge (no conflict!).
+    - Merge the PR and repeat with a new Coder B.
 
 # Team Questions
 1) What is our collaboration plan? How will we decide which features make it into the app? How will we organize and prioritize features? Will we use Miro, or some other group collaboration tool? How will we decide who works on what feature? How will we decide which features are best for mob or pair or individual work? How will we merge code into the main branch? What is our code review process?
