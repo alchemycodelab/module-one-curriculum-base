@@ -38,7 +38,7 @@ Here's how you can protect your `main` branch from unruly 'cowboy coding'. If yo
     - Coder A pushes their code and makes a PR from `new` to `main`.
     - this PR gets merged into main.
 3) Meanwhile, Coder B _forgets_ to `git pull origin main`!
-4) Coder B creates create a new branch (i.e. `my-branch` branch).
+4) Coder B creates create a new branch (i.e. `my-branch`).
     - Coder B makes a change and a commit on line 1 of `app.js` in their `main` branch. This is the same line as Coder A.
     - Coder B pushes their code and makes a PR from `my-branch` to `main`.
     - Notice the PR tells you there is a conflict!
