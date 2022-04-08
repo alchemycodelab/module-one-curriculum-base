@@ -41,7 +41,6 @@ Here's how you can protect your `main` branch from unruly 'cowboy coding'. If yo
 4) Coder B creates create a new branch (i.e. `another-new` branch).
     - Coder B makes a change and a commit on line 1 of `app.js` in their `main` branch. This is the same line as Coder A.
     - Coder B pushes their code and makes a PR from `another-new` to `main`.
-    - Coder B makes a pull request to main
     - Notice the PR tells you there is a conflict!
     - Coder B pulls the freshest code from `main`, which now has Coder A's commit: `git pull origin main`
     - Coder B resolves the merge conflict, then ACP to their `another-new` branch.
