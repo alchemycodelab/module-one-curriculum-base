@@ -1,3 +1,5 @@
+[CSS Notes](https://gist.github.com/dpcairns/8375a5c76511f831ab6b3a53bc7967e9)
+
 ## [01 - Hide and Seek](https://github.com/alchemycodelab/half-baked-web-01-hide-seek)
 [![](./assets/hide-and-seek.png)](https://github.com/alchemycodelab/half-baked-web-01-hide-seek)
 
