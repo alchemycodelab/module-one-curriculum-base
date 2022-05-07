@@ -99,8 +99,6 @@ function displayStats() {
     
     for (let game of pastGames) {
         const gameEl = renderGame(game);
-
-        gameEl.classList.add('past');
         
         pastGamesEl.append(gameEl);
     }
