@@ -23,7 +23,10 @@ code .
 
 ## VSCode 
 
-To create a new file:
+`code .` in the terminal should open your current folder in VSCode
+
+If that doesn't work, don't worry. Just open VSCode and locate the folder in the toolbar (`file > open`) to get the same effect.
+
 <img width="265" alt="image" src="https://user-images.githubusercontent.com/16160135/173688740-85a62969-71b7-4a4a-8d00-81c3d749ad1c.png">
 
 
