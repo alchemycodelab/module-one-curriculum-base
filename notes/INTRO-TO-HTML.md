@@ -32,17 +32,18 @@ To create a new file:
 
 https://github.com/new/
 
-create a repo
+### create a repo
 <img width="898" alt="image" src="https://user-images.githubusercontent.com/16160135/173687562-044e31cb-8db9-4152-9868-5eec321af630.png">
 
-clone it down 
+### clone it down (step 1)
 <img width="606" alt="image" src="https://user-images.githubusercontent.com/16160135/173687688-312bfd24-6231-4608-97aa-5d050f580c45.png">
 
+### clone it down (step 2)
 <img width="711" alt="image" src="https://user-images.githubusercontent.com/16160135/173687924-23e45423-a119-4484-9b7b-724cb11d0573.png">
 
 ## HTML Elements
 
-head and body
+### head and body
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -55,6 +56,7 @@ head and body
 </html>
 ```
 
+### common elements
 ```html
 h1
 h2
