@@ -1,6 +1,6 @@
 ## Terminal
 
-navigate
+### navigate
 ```bash
 pwd
 cd ~
@@ -8,14 +8,14 @@ cd my-folder
 ls -la
 ```
 
-create and destroy
+### create and destroy
 ```bash
 mkdir my-folder
 touch my-file
 rm -rf my-folder
 ```
 
-open programs
+### open programs
 ```bash
 open .
 code .
