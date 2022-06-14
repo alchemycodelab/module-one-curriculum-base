@@ -24,7 +24,8 @@ code .
 ## VSCode 
 
 To create a new file:
-<img width="203" alt="image" src="https://user-images.githubusercontent.com/16160135/173688507-32e7809d-61dc-417d-9fa3-5e44a540443b.png">
+<img width="265" alt="image" src="https://user-images.githubusercontent.com/16160135/173688740-85a62969-71b7-4a4a-8d00-81c3d749ad1c.png">
+
 
 
 ## Github
