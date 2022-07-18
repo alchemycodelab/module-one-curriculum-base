@@ -90,5 +90,14 @@ img
 
 <img width="702" alt="image" src="https://user-images.githubusercontent.com/16160135/179444036-3d24b827-87f1-479f-af91-9c2f35f8d32e.png">
 
-## Our template repo
-https://github.com/alchemycodelab/web-template
+## Dev branch and PRs
+
+<img width="1321" alt="image" src="https://user-images.githubusercontent.com/16160135/179628206-d01f1cec-5020-40ee-ba09-0fb25e0707ed.png">
+
+`git checkout -b dev`
+
+`git add -A`
+
+`git commit -m 'new commit'`
+
+`git push origin dev`
