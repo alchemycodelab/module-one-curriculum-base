@@ -78,6 +78,8 @@ img
 
 ## Deploy
 
+(https://www.netlify.com)[Netlify will host our website for free]
+
 <img width="396" alt="image" src="https://user-images.githubusercontent.com/16160135/179443898-b24d33db-d99c-45ea-8c89-5dbbe20e5cce.png">
 
 <img width="485" alt="image" src="https://user-images.githubusercontent.com/16160135/179443942-4e2639da-ff79-4112-84e5-430bfecb68be.png">
