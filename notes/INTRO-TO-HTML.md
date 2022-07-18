@@ -73,7 +73,9 @@ img
 ## Git commands
 
 `git add -A`
+
 `git commit -m`
+
 `git push origin main`
 
 ## Deploy
