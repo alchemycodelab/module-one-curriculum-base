@@ -101,3 +101,6 @@ img
 `git commit -m 'new commit'`
 
 `git push origin dev`
+
+<img width="968" alt="image" src="https://user-images.githubusercontent.com/16160135/179628326-13cdd8aa-8f1c-479c-8cb8-8e732c1f8ea9.png">
+
