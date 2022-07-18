@@ -78,4 +78,9 @@ img
 
 ## Deploy
 
-<img width="1331" alt="image" src="https://user-images.githubusercontent.com/16160135/173688433-edc3ed2b-c315-4539-8b40-f48df0654bdc.png">
+<img width="396" alt="image" src="https://user-images.githubusercontent.com/16160135/179443898-b24d33db-d99c-45ea-8c89-5dbbe20e5cce.png">
+
+<img width="485" alt="image" src="https://user-images.githubusercontent.com/16160135/179443942-4e2639da-ff79-4112-84e5-430bfecb68be.png">
+
+<img width="702" alt="image" src="https://user-images.githubusercontent.com/16160135/179444036-3d24b827-87f1-479f-af91-9c2f35f8d32e.png">
+
