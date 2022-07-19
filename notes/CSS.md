@@ -73,12 +73,12 @@ can become
 ## Colors
 
 `color` vs `background`
-    - `color: pink` 
-        - makes: the _font- pink
-    - `background: pink` 
-        - makes the _background color_ pink
-        - `background: url("paper.gif");` also works
-        -   note: `background-size`, `background-repeat`, and `background-attachment` can be important. You'll need to research and fiddle with the options to get what you want _juuuust right_
+ - `color: pink` 
+    - makes: the _font- pink
+ - `background: pink` 
+    - makes the _background color_ pink
+    - `background: url("paper.gif");` also works
+    -   note: `background-size`, `background-repeat`, and `background-attachment` can be important. You'll need to research and fiddle with the options to get what you want _juuuust right_
 
 ## Background shorthand
 
