@@ -104,9 +104,9 @@ body {
 
 ## Font
 
-- set defaults in the body, override them in the children:  
-    - `2rem` will make the font size _twice_ the parent
-    - `0.75rem` will make the font size _75%_ of the parent
+- set defaults in the root, override them in the children:  
+    - `2rem` will make the font size _twice_ the root
+    - `0.75rem` will make the font size _75%_ of the root
 
 ```css
 body {
