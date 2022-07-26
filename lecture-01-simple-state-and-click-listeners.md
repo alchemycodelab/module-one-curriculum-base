@@ -161,4 +161,33 @@ button.addEventListener('click', () => {
     - something is undefined
     - you didn't import something
     - typo
-    - `Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')`
+    
+- `Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')`
+    ```js// step 1: recognize the classic js error
+        // step 2: look for the word in quotes
+        // step 3: look for the file and line number
+        // step 4: find the word in quotes on that line
+        // step 5: look to the left. The thing to the left is undefined
+        // step 6: find where this variable is supposed to be defined. follow the bouncing ball, looking for typos and other problems.
+ ```
+ 
+  `Uncaught ReferenceError: catchphraseButton is not defined`
+ ```js
+ // step 1: go to the file and line from the error
+ // step 2 find the red squiggle.
+ // step 3: ask: where _should_ this have been defined?
+ // step 4: go define it.
+ ```
+  
+`These three work but the fourth one doesn't`
+
+When you have repeated, similiar behavior and one of them doesn't work, look for things that stand out as weird.
+
+```html
+<select id="head-dropdown">
+    <option value="bird">Bird</option>
+    <option value="duck-head">Duck</option>
+    <option value="dog">Dog</option>
+    <option value="horse">Horse</option>
+</select>
+```
