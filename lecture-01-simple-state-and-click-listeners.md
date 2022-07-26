@@ -161,3 +161,4 @@ button.addEventListener('click', () => {
     - something is undefined
     - you didn't import something
     - typo
+    - `Uncaught TypeError: Cannot read properties of null (reading 'addEventListener')`
