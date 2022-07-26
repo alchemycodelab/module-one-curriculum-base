@@ -153,3 +153,11 @@ button.addEventListener('click', () => {
 1) Think about how to validate each of your steps according to a Definition of Done
     - 90% of the time, it's just "`console.log` something" to make sure it's right.
 1) Consider what features _depend_ on what other features. Use this dependency logic to figure out what order to complete tasks.
+
+## Debugging
+- What am I expecting?
+- What's happening instead?
+- Reasons it might not work:
+    - something is undefined
+    - you didn't import something
+    - typo
