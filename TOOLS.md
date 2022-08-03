@@ -18,6 +18,7 @@
   - set text content to a dynamic string
 #### 9) `myEl.classList.add('some-class')`
 #### 10) `if (someState > 10) { /* do something */ }`
+  - conditionally use one of your other finite tools
 #### 11) `function doStuff() { /* do something */ }`
   - move repeated/complex work into a named function
   - render functions take in an object and return a DOM element
