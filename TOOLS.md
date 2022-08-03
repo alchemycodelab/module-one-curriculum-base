@@ -1,34 +1,21 @@
-## Finite list of tools
+# Finite list of tools
 
-#### 1) `let someState = 0`
-  - initialize state
-#### 2) `const myEl = document.querySelector('.my-class');`
+## Section One - DOM manipulation
+#### 1) `const myEl = document.querySelector('.my-class');`
   - grab DOM elements from the HTML
-#### 3) `someState++`
-  - increment state
-#### 4) `myEl.textContent = someState`
+#### 2) `myEl.textContent = someState`
   - we display a state change
-#### 5) `const userTypedThis = myInputEl.value`
+#### 3) `const userTypedThis = myInputEl.value`
   - get what the user typed
-#### 6) `myEl.textContent = myInputEl.value`
+#### 4) `myEl.textContent = myInputEl.value`
   - display what the user typed
+#### 5) ```myEl.textContent = `this is a ${someState} string template` ```
+  - set text content to a dynamic string
+#### 6) `myEl.classList.add('some-class')`
+  - add a css class to an element
 #### 7) `myButton.addEventListener('click', () => {})`
   - listen for a click
-#### 8) ```myEl.textContent = `this is a ${someState} string template` ```
-  - set text content to a dynamic string
-#### 9) `myEl.classList.add('some-class')`
-#### 10) `if (someState > 10) { /* do something */ }`
-  - conditionally use one of your other finite tools
-#### 11) `function doStuff() { /* do something */ }`
-  - move repeated/complex work into a named function
-  - render functions take in an object and return a DOM element
-  - display functions mutate the root HTML/DOM
-#### 12) `myArrayState.push(newThing)`
-  - update array state
-#### 13) `Math.floor(Math.random() * 10)`
-  - when we need to do stuff randomly
-
-#### Loops) for loop to display a list 
+#### 8) for loop to display a list 
 ```js
   myParentEl.textContent = '';
 
@@ -40,8 +27,7 @@
         myParentEl.append(myChildEl);
       }
 ```
-
-#### Forms)
+#### 9) Get data from a form
 
 ```js
 form.addEventListener('submit', (e) => {
@@ -52,3 +38,23 @@ form.addEventListener('submit', (e) => {
   data.get('name-of-field')
 });
 ```
+
+## Section Two - State manipulation
+#### 9) `let someState = 0`
+  - initialize state
+#### 10) `someState++`
+  - increment state
+#### 11) `myArrayState.push(newThing)`
+  - update array state
+
+## Section Three - Fun stuff
+#### 11) `if (someState > 10) { /* do something */ }`
+  - conditionally use one of your other finite tools
+#### 12) `function doStuff() { /* do something */ }`
+  - move repeated/complex work into a named function
+  - render functions take in an object and return a DOM element
+  - display functions mutate the root HTML/DOM
+#### 13) `Math.floor(Math.random() * 10)`
+  - when we need to do stuff randomly
+
+
