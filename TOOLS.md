@@ -42,12 +42,13 @@
 ```
 
 #### Forms)
-    ```js
-    form.addEventListener('submit', (e) => {
-      e.preventDefault();
 
-      const data = new FormData(form);
+```js
+form.addEventListener('submit', (e) => {
+  e.preventDefault();
 
-      data.get('name-of-field')
-    });
-    ```
+  const data = new FormData(form);
+
+  data.get('name-of-field')
+});
+```
