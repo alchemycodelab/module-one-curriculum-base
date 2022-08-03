@@ -1,6 +1,6 @@
 ## Finite list of tools
 
-#### 1) let someState = 0
+#### 1) `let someState = 0`
   - initialize state
 #### 2) const myEl = document.querySelector('.my-class');
   - grab DOM elements from the HTML
