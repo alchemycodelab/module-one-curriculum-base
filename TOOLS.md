@@ -3,15 +3,15 @@
 ## Section One - DOM manipulation
 #### 1) `const myEl = document.querySelector('.my-class');`
   - grab DOM elements from the HTML
-#### 3) `const userTypedThis = myInputEl.value`
+#### 2) `const userTypedThis = myInputEl.value`
   - get what the user typed
-#### 4) `myEl.textContent = myInputEl.value`
+#### 3) `myEl.textContent = myInputEl.value`
   - display what the user typed
-#### 5) `myEl.classList.add('some-class')`
+#### 4) `myEl.classList.add('some-class')`
   - add a css class to an element
-#### 6) `myButton.addEventListener('click', () => {})`
+#### 5) `myButton.addEventListener('click', () => {})`
   - listen for a click
-#### 7) for loop to display a list 
+#### 6) for loop to display a list 
 ```js
   myParentEl.textContent = '';
 
@@ -23,7 +23,7 @@
         myParentEl.append(myChildEl);
       }
 ```
-#### 8) Get data from a form
+#### 7) Get data from a form
 
 ```js
 form.addEventListener('submit', (e) => {
@@ -36,25 +36,25 @@ form.addEventListener('submit', (e) => {
 ```
 
 ## Section Two - State manipulation
-#### 9) `let someState = 0`
+#### 8) `let someState = 0`
   - initialize state
-#### 10) `someState++`
+#### 9) `someState++`
   - increment state
-#### 11) `myArrayState.push(newThing)`
+#### 10) `myArrayState.push(newThing)`
   - update array state
-#### 12) `myEl.textContent = someState`
+#### 11) `myEl.textContent = someState`
   - we display a state change
-#### 13) ```myEl.textContent = `this is a ${someState} string template` ```
+#### 12) ```myEl.textContent = `this is a ${someState} string template` ```
   - set text content to a dynamic string based on state
 
 ## Section Three - Fun stuff
-#### 15) `if (someState > 10) { /* do something */ }`
+#### 13) `if (someState > 10) { /* do something */ }`
   - conditionally use one of your other finite tools
-#### 16) `function doStuff() { /* do something */ }`
+#### 14) `function doStuff() { /* do something */ }`
   - move repeated/complex work into a named function
   - render functions take in an object and return a DOM element
   - display functions mutate the root HTML/DOM
-#### 17) `Math.floor(Math.random() * 10)`
+#### 15) `Math.floor(Math.random() * 10)`
   - when we need to do stuff randomly
 
 
