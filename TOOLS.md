@@ -3,19 +3,15 @@
 ## Section One - DOM manipulation
 #### 1) `const myEl = document.querySelector('.my-class');`
   - grab DOM elements from the HTML
-#### 2) `myEl.textContent = someState`
-  - we display a state change
 #### 3) `const userTypedThis = myInputEl.value`
   - get what the user typed
 #### 4) `myEl.textContent = myInputEl.value`
   - display what the user typed
-#### 5) ```myEl.textContent = `this is a ${someState} string template` ```
-  - set text content to a dynamic string
-#### 6) `myEl.classList.add('some-class')`
+#### 5) `myEl.classList.add('some-class')`
   - add a css class to an element
-#### 7) `myButton.addEventListener('click', () => {})`
+#### 6) `myButton.addEventListener('click', () => {})`
   - listen for a click
-#### 8) for loop to display a list 
+#### 7) for loop to display a list 
 ```js
   myParentEl.textContent = '';
 
@@ -27,7 +23,7 @@
         myParentEl.append(myChildEl);
       }
 ```
-#### 9) Get data from a form
+#### 8) Get data from a form
 
 ```js
 form.addEventListener('submit', (e) => {
@@ -46,15 +42,19 @@ form.addEventListener('submit', (e) => {
   - increment state
 #### 11) `myArrayState.push(newThing)`
   - update array state
+#### 12) `myEl.textContent = someState`
+  - we display a state change
+#### 13) ```myEl.textContent = `this is a ${someState} string template` ```
+  - set text content to a dynamic string
 
 ## Section Three - Fun stuff
-#### 11) `if (someState > 10) { /* do something */ }`
+#### 15) `if (someState > 10) { /* do something */ }`
   - conditionally use one of your other finite tools
-#### 12) `function doStuff() { /* do something */ }`
+#### 16) `function doStuff() { /* do something */ }`
   - move repeated/complex work into a named function
   - render functions take in an object and return a DOM element
   - display functions mutate the root HTML/DOM
-#### 13) `Math.floor(Math.random() * 10)`
+#### 17) `Math.floor(Math.random() * 10)`
   - when we need to do stuff randomly
 
 
