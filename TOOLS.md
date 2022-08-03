@@ -45,7 +45,7 @@ form.addEventListener('submit', (e) => {
 #### 12) `myEl.textContent = someState`
   - we display a state change
 #### 13) ```myEl.textContent = `this is a ${someState} string template` ```
-  - set text content to a dynamic string
+  - set text content to a dynamic string based on state
 
 ## Section Three - Fun stuff
 #### 15) `if (someState > 10) { /* do something */ }`
