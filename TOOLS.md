@@ -14,7 +14,7 @@
   - display what the user typed
 #### 7) `myButton.addEventListener('click', () => {})`
   - listen for a click
-#### 8) `myEl.textContent = \`this is a ${someState} string template\``
+#### 8) `myEl.textContent = `this is a ${someState} string template``
   - set text content to a dynamic string
 #### 9) `myEl.classList.add('some-class')`
 #### 10) `if (someState > 10) { /* do something */ }`
