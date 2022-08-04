@@ -31,6 +31,24 @@ const myElement = document.getElementById('my-element');
 myElement.textContent = 'new words that will show up and the user can see it';
 ```
 
+#### document.querySelector
+
+This is an alternative to `document.getElementById`.
+
+Except, instead of an id, it can eat anything that css can eat.
+
+`document.querySelector('.my-class-name'`)` will grab the first element with this class name.
+
+`document.querySelector('#my-d')` will grab the first element with this id.
+
+`document.querySelector('div')` will grab the first div.
+
+#### myElement.classList.add()
+
+This simply adds a css class to a DOM element. 
+
+This is how we can dynamically change the styles of an HTML element, without hard coding the `class="my-class"` piece.
+
 #### array
 
 This is the data type for "lists of things". 
