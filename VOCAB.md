@@ -84,6 +84,6 @@ for (let item of items) {
 
 ## request/response cycle
 
-Clients (usually, the user's computer) make requests to servers.
+Clients (usually, the user's computer) make requests to servers. Requests are like text messages--it's how a computer talks to another computer.
 
-Servers (any other computer on the internet) are computers that lisent for requests. When a server receives a request, it do work, and then gives a response back to the client.
+Servers (any other computer on the internet) are computers that listen for requests. When a server receives a request, it do work, and then gives a response back to the client.
