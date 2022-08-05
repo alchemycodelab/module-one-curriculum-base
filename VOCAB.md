@@ -119,6 +119,8 @@ A pure function has:
 3) A predictable outcome (so `Math.random()` is not pure)
 4) no "side effects". Another way to say that: it does not mutate anything defined outside the function.
 
+As a rule, pure functions can (and should) be relocated to another file and imported for the sake of readability.
+
 ## Impure functions
 
 Impure functions are 
@@ -128,6 +130,8 @@ Impure functions are
 4) or functions that mutate something defined outside the function.
 
 Anything that depends on the current date, or a random number, or the user's favorite food, or anything else _outside the function_ counts as an impure function.
+
+As a rule, impure functions are harder to move into their own file without creating a sea of undefined variables.
 
 Impure functions are hard to test.
 
