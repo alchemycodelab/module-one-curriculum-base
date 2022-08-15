@@ -56,7 +56,7 @@ button.addEventListener('click', () => {
 ```js
 export function renderCat(cat) {
     const catEl = document.createElement('div');
-    const nameEl = document.createElement('nameEl');
+    const nameEl = document.createElement('p');
     const img = document.createElement('img');
     nameEl.textContent = cat.name;
     img.src = cat.image_url;
