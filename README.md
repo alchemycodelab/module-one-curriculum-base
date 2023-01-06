@@ -6,18 +6,18 @@
 ## [02 - Character Designer](https://github.com/alchemycodelab/half-baked-js-character-designer)
 [![](./assets/character-designer.png)](https://github.com/alchemycodelab/half-baked-js-character-designer)
 
-## [03 - Soccer Scorekeeper](https://github.com/alchemycodelab/half-baked-js-soccer-scorekeeper)
-[![](./assets/soccer-scorekeeper.png)](https://github.com/alchemycodelab/half-baked-js-soccer-scorekeeper)
-
-## [04 - Mushroom Festival](https://github.com/alchemycodelab/half-baked-js-mushroom-festival)
+## [03 - Mushroom Festival](https://github.com/alchemycodelab/half-baked-js-mushroom-festival)
 [![](./assets/mushroom-festival.png)](https://github.com/alchemycodelab/half-baked-js-mushroom-festival)
 
-## [05 - Supabase Adopt-a-Dog](https://github.com/alchemycodelab/half-baked-js-adopt-a-dog)
+## [04 - Supabase Countries Search](https://github.com/alchemycodelab/half-baked-js-adopt-a-dog)
 [![](./assets/adopt-a-dog-detail.png)](https://github.com/alchemycodelab/half-baked-js-adopt-a-dog)
 [![](./assets/adopt-a-dog-list.png)](https://github.com/alchemycodelab/half-baked-js-adopt-a-dog)
 
-## [06 - Supabase Soccer Scorekeeper](https://github.com/alchemycodelab/half-baked-js-soccer-scorekeeper-supabase)
-[![](./assets/soccer-scorekeeper.png)](https://github.com/alchemycodelab/half-baked-js-soccer-scorekeeper-supabase)
+## [05 - Supabase Dog Adoption List/Detail Page](https://github.com/alchemycodelab/half-baked-js-todo-supabase)
+[![](./assets/todos.png)](https://github.com/alchemycodelab/half-baked-js-todo-supabase)
+
+## [06 - Supabase Bulletin Board](https://github.com/alchemycodelab/half-baked-js-todo-supabase)
+[![](./assets/todos.png)](https://github.com/alchemycodelab/half-baked-js-todo-supabase)
 
 ## [07 - Supabase Todo App](https://github.com/alchemycodelab/half-baked-js-todo-supabase)
 [![](./assets/todos.png)](https://github.com/alchemycodelab/half-baked-js-todo-supabase)
