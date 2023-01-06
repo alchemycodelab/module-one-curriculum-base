@@ -13,11 +13,11 @@
 [![](./assets/countries.png)](https://github.com/alchemycodelab/half-baked-web-01-countries-search)
 
 ## [05 - Supabase Dog Adoption List/Detail Page](https://github.com/alchemycodelab/half-baked-web-01-adopt-a-dog)
-[![](./assets/adopt-a-dog-list.png.png)](https://github.com/alchemycodelab/half-baked-web-01-adopt-a-dog)
-[![](./assets/adopt-a-dog-detail.png.png)](https://github.com/alchemycodelab/half-baked-web-01-adopt-a-dog)
+[![](./assets/adopt-a-dog-list.png)](https://github.com/alchemycodelab/half-baked-web-01-adopt-a-dog)
+[![](./assets/adopt-a-dog-detail.png)](https://github.com/alchemycodelab/half-baked-web-01-adopt-a-dog)
 
 ## [06 - Supabase Bulletin Board](https://github.com/alchemycodelab/web-01-bulletin-board-RUBRIC)
-[![](./assets/bulleting.png)](https://github.com/alchemycodelab/web-01-bulletin-board-RUBRIC)
+[![](./assets/bulletin.png)](https://github.com/alchemycodelab/web-01-bulletin-board-RUBRIC)
 
 ## [07 - Supabase Todo App](https://github.com/alchemycodelab/half-baked-js-todo-supabase)
 [![](./assets/todos.png)](https://github.com/alchemycodelab/half-baked-js-todo-supabase)
